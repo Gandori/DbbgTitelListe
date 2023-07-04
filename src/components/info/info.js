@@ -24,7 +24,7 @@ export default function Info() {
                     <b>Name des Titels</b>
                     <b>Farbe vom Titel</b>
                     <b>Die Titel anforderung</b>
-                    <b>Den ort vom Titel</b>
+                    <b>Den Ort vom Titel</b>
                 </div>
             </main>
 
