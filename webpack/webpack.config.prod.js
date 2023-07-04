@@ -5,7 +5,7 @@ const WebpackAssetsManifest = require('webpack-assets-manifest')
 module.exports = {
     mode: 'production',
     output: {
-        publicPath: '/ReactBuild/',
+        publicPath: '/DbbgTitelListe/',
         path: path.resolve(__dirname, '../build'),
         filename: 'static/js/[contenthash:10].js',
         clean: true,
