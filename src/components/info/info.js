@@ -8,7 +8,9 @@ export default function Info() {
     return (
         <div id="info">
             <header id="infoHeader">
-                <img src={DBBGImage}></img>
+                <a href="https://db-bg.de" target="_blank">
+                    <img src={DBBGImage}></img>
+                </a>
                 <img src={TitelListeImage}></img>
             </header>
 
