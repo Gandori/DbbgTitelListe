@@ -1,9 +1,9 @@
 {
-  "index.html": "/ReactBuild/index.html",
-  "main.css": "/ReactBuild/static/css/6a15761509.css",
-  "main.js": "/ReactBuild/static/js/c74502ffb8.js",
-  "shared.js": "/ReactBuild/static/js/d426717cc6.js",
-  "static/assets/dbbg.png": "/ReactBuild/static/assets/4176440010.png",
-  "static/assets/sonGoku.png": "/ReactBuild/static/assets/a3a8d19edb.png",
-  "static/assets/titelListe.png": "/ReactBuild/static/assets/7685df07a9.png"
+  "index.html": "/DbbgTitelListe/index.html",
+  "main.css": "/DbbgTitelListe/static/css/6a15761509.css",
+  "main.js": "/DbbgTitelListe/static/js/3d72c69dcf.js",
+  "shared.js": "/DbbgTitelListe/static/js/d426717cc6.js",
+  "static/assets/dbbg.png": "/DbbgTitelListe/static/assets/4176440010.png",
+  "static/assets/sonGoku.png": "/DbbgTitelListe/static/assets/a3a8d19edb.png",
+  "static/assets/titelListe.png": "/DbbgTitelListe/static/assets/7685df07a9.png"
 }
