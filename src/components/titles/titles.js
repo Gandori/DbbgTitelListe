@@ -8,7 +8,7 @@ import otherTitles from '@/data/otherTitles'
 import techTitles from '@/data/techTitles'
 
 export default function Titles() {
-    const [filter, setFilter] = React.useState('npc')
+    const [filter, setFilter] = React.useState('all')
     const [searchValue, setSearchValue] = React.useState(null)
     const [data, setData] = React.useState([])
 
