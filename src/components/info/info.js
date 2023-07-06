@@ -15,7 +15,7 @@ export default function Info() {
             </header>
 
             <main id="infoMain">
-                <h1>Du willst helfen die Listen zu Komplettieren?</h1>
+                <h1>Du willst helfen die Liste zu Komplettieren?</h1>
                 <p>
                     Dann schreib mir doch Ingame eine PM mit Folgenden Infos vom
                     Titel
