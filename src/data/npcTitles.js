@@ -3,7 +3,7 @@ const npcTitles = [
         name: 'Tierfreund',
         ort: 'Wald',
         requirement: 'Tiger 10-mal besiegen',
-        color: 'ffd858',
+        color: '#ffd858',
     },
     {
         name: 'Jäger',
