@@ -1,13 +1,15 @@
 import * as React from 'react'
 import './titles.sass'
 
+import Searchbar from '@/components/searchbar/searchbar'
 import Title from '@/components/title/title'
 import npcTitles from '@/data/npcTitles'
 import otherTitles from '@/data/otherTitles'
 import techTitles from '@/data/techTitles'
 
 export default function Titles() {
-    const [filter, setFilter] = React.useState('all')
+    const [filter, setFilter] = React.useState('npc')
+    const [searchValue, setSearchValue] = React.useState(null)
     const [data, setData] = React.useState([])
 
     React.useEffect(() => {
@@ -66,10 +68,22 @@ export default function Titles() {
                 </button>
             </header>
 
+            <Searchbar data={data} setSearchValue={setSearchValue}></Searchbar>
+
             <main id="titlesContent">
                 {data
                     ? data.map((title, key) => (
-                          <Title key={key} title={title}></Title>
+                          <>
+                              {searchValue ? (
+                                  title.name.startsWith(searchValue) ||
+                                  title.ort.startsWith(searchValue) ||
+                                  title.requirement.startsWith(searchValue) ? (
+                                      <Title key={key} title={title}></Title>
+                                  ) : null
+                              ) : (
+                                  <Title key={key} title={title}></Title>
+                              )}
+                          </>
                       ))
                     : null}
             </main>
