@@ -112,7 +112,7 @@ const otherTitles = [
         name: 'Prinzessin',
         ort: 'keinen',
         requirement: 'Spielerlevel 61 erreicht',
-        color: '',
+        color: '#f8aea8',
     },
     {
         name: 'Selbstlos',
