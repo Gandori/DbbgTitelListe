@@ -126,6 +126,13 @@ const otherTitles = [
         requirement: 'Der Spieler ist aus dem Jenseits zurückgekehrt',
         color: '',
     },
+    {
+        name: 'Gestärkter',
+        ort: 'keinen',
+        requirement:
+            'Der Spieler hat einen Wunsch geäußert, wodurch er stärker geworden ist',
+        color: '',
+    },
 ]
 
 export default otherTitles
