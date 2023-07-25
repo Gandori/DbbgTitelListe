@@ -46,7 +46,7 @@ const otherTitles = [
         ort: 'keinen',
         requirement:
             'Der Spieler hat einen Wunsch geäußert, wodurch er stärker geworden ist',
-        color: '',
+        color: '#d38dff',
     },
     {
         name: 'Reisender',
@@ -124,13 +124,6 @@ const otherTitles = [
         name: 'Auferstanden',
         ort: 'keinen',
         requirement: 'Der Spieler ist aus dem Jenseits zurückgekehrt',
-        color: '',
-    },
-    {
-        name: 'Gestärkter',
-        ort: 'keinen',
-        requirement:
-            'Der Spieler hat einen Wunsch geäußert, wodurch er stärker geworden ist',
         color: '',
     },
 ]
