@@ -874,7 +874,7 @@ const npcTitles = [
         name: 'Humanoid',
         ort: 'Quittenwald',
         requirement: 'Oberst Yellow 100-mal besiegen',
-        color: '',
+        color: '#ffd858',
     },
     {
         name: 'Yellow',
