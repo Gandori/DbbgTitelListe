@@ -13,6 +13,7 @@ export default function Titles() {
     const [data, setData] = React.useState([])
 
     React.useEffect(() => {
+        setSearchValue(null)
         switch (filter) {
             case 'all':
                 setData(npcTitles.concat(otherTitles).concat(techTitles))
@@ -35,6 +36,38 @@ export default function Titles() {
         var element = document.getElementById('titlesContent')
         element.scrollTop = 0
         setFilter(value)
+    }
+
+    const searchTitle = (value) => {
+        setSearchValue(value)
+        let newData = []
+        if (!value) {
+            return
+        }
+        npcTitles
+            .concat(otherTitles)
+            .concat(techTitles)
+            .forEach((title) => {
+                if (
+                    title.name.startsWith(value) ||
+                    `${title.name.charAt(0).toLowerCase()}${title.name.slice(
+                        1
+                    )}`.startsWith(value) ||
+                    title.ort.startsWith(value) ||
+                    `${title.ort.charAt(0).toLowerCase()}${title.ort.slice(
+                        1
+                    )}`.startsWith(value) ||
+                    title.requirement.startsWith(value) ||
+                    `${title.requirement
+                        .charAt(0)
+                        .toLowerCase()}${title.requirement.slice(
+                        1
+                    )}`.startsWith(value)
+                ) {
+                    newData.push(title)
+                }
+            })
+        setData(newData)
     }
 
     return (
@@ -68,24 +101,24 @@ export default function Titles() {
                 </button>
             </header>
 
-            <Searchbar data={data} setSearchValue={setSearchValue}></Searchbar>
+            <label>
+                Titel Anzahl: <b>{data.length}</b>
+            </label>
+
+            <Searchbar
+                data={data}
+                searchValue={searchValue}
+                searchTitle={searchTitle}
+            ></Searchbar>
 
             <main id="titlesContent">
-                {data
-                    ? data.map((title, key) => (
-                          <>
-                              {searchValue ? (
-                                  title.name.startsWith(searchValue) ||
-                                  title.ort.startsWith(searchValue) ||
-                                  title.requirement.startsWith(searchValue) ? (
-                                      <Title key={key} title={title}></Title>
-                                  ) : null
-                              ) : (
-                                  <Title key={key} title={title}></Title>
-                              )}
-                          </>
-                      ))
-                    : null}
+                {data && (
+                    <>
+                        {data.map((title, key) => (
+                            <Title key={key} title={title}></Title>
+                        ))}
+                    </>
+                )}
             </main>
         </div>
     )
