@@ -106,7 +106,7 @@ const otherTitles = [
         name: 'Prinz',
         ort: 'keinen',
         requirement: 'Spielerlevel 60 erreicht',
-        color: '',
+        color: '#f8aea8',
     },
     {
         name: 'Prinzessin',
