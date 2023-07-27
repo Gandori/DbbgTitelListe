@@ -14,6 +14,16 @@ export default function Titles() {
 
     React.useEffect(() => {
         setSearchValue(null)
+        filterTitle()
+    }, [filter])
+
+    const changeFilter = (value) => {
+        var element = document.getElementById('titlesContent')
+        element.scrollTop = 0
+        setFilter(value)
+    }
+
+    function filterTitle() {
         switch (filter) {
             case 'all':
                 setData(npcTitles.concat(otherTitles).concat(techTitles))
@@ -30,75 +40,79 @@ export default function Titles() {
                 setData(otherTitles)
                 break
         }
-    }, [filter])
-
-    const changeFilter = (value) => {
-        var element = document.getElementById('titlesContent')
-        element.scrollTop = 0
-        setFilter(value)
     }
 
-    const searchTitle = (value) => {
+    function searchTitle(value) {
         setSearchValue(value)
-        let newData = []
         if (!value) {
+            filterTitle()
             return
         }
-        npcTitles
-            .concat(otherTitles)
-            .concat(techTitles)
-            .forEach((title) => {
-                if (
-                    title.name.startsWith(value) ||
-                    `${title.name.charAt(0).toLowerCase()}${title.name.slice(
-                        1
-                    )}`.startsWith(value) ||
-                    title.ort.startsWith(value) ||
-                    `${title.ort.charAt(0).toLowerCase()}${title.ort.slice(
-                        1
-                    )}`.startsWith(value) ||
-                    title.requirement.startsWith(value) ||
-                    `${title.requirement
-                        .charAt(0)
-                        .toLowerCase()}${title.requirement.slice(
-                        1
-                    )}`.startsWith(value)
-                ) {
-                    newData.push(title)
-                }
-            })
+
+        let newData = []
+        let titles = npcTitles.concat(otherTitles).concat(techTitles)
+
+        titles.forEach((title) => {
+            let titleName = title.name
+            let titleNameLowerCase = titleName.toLowerCase()
+
+            let titleOrt = title.ort
+            let titleOrtLowerCase = titleOrt.toLowerCase()
+
+            let titleReq = title.requirement
+            let titleReqLowerCase = titleReq.toLowerCase()
+
+            if (
+                titleName.startsWith(value) ||
+                titleNameLowerCase.startsWith(value) ||
+                titleOrt.startsWith(value) ||
+                titleOrtLowerCase.startsWith(value) ||
+                titleReq.startsWith(value) ||
+                titleReqLowerCase.startsWith(value)
+            ) {
+                newData.push(title)
+            }
+        })
         setData(newData)
     }
+
+    const heaaderButtons = [
+        {
+            text: 'Alle',
+            className: 'all',
+            filter: 'all',
+        },
+        {
+            text: 'Npc',
+            className: 'npc',
+            filter: 'npc',
+        },
+        {
+            text: 'Techniken',
+            className: 'tech',
+            filter: 'tech',
+        },
+        {
+            text: 'Andere',
+            className: 'other',
+            filter: 'other',
+        },
+    ]
 
     return (
         <div id="titles">
             <header>
-                <button
-                    className={filter == 'all' ? 'buttonAktiv' : ''}
-                    onClick={() => {
-                        changeFilter('all')
-                    }}
-                >
-                    Alle
-                </button>
-                <button
-                    className={filter == 'npc' ? 'buttonAktiv' : ''}
-                    onClick={() => changeFilter('npc')}
-                >
-                    Npc
-                </button>
-                <button
-                    className={filter == 'tech' ? 'buttonAktiv' : ''}
-                    onClick={() => changeFilter('tech')}
-                >
-                    Techniken
-                </button>
-                <button
-                    className={filter == 'other' ? 'buttonAktiv' : ''}
-                    onClick={() => changeFilter('other')}
-                >
-                    Andere
-                </button>
+                {heaaderButtons.map((button, key) => (
+                    <button
+                        key={key}
+                        className={
+                            filter == button.className ? 'buttonAktiv' : null
+                        }
+                        onClick={() => changeFilter(button.filter)}
+                    >
+                        {button.text}
+                    </button>
+                ))}
             </header>
 
             <label>
