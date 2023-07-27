@@ -81,8 +81,8 @@ const otherTitles = [
     {
         name: 'Cyborg',
         ort: 'keinen',
-        requirement: 'Der Spieler hat 100 mal den Chip aufgewertet',
-        color: '',
+        requirement: 'Der Spieler hat ? mal den Chip aufgewertet',
+        color: '#d38dff',
     },
     {
         name: 'Gladiator',
@@ -118,7 +118,7 @@ const otherTitles = [
         name: 'Selbstlos',
         ort: 'keinen',
         requirement: 'Der Spieler ist im Kampf gegen Radditz gestorben',
-        color: '',
+        color: '#f8aea8',
     },
     {
         name: 'Auferstanden',

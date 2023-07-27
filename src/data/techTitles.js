@@ -71,6 +71,12 @@ const techTitles = [
         requirement: 'Haretsu Majutsu 250-mal verwenden',
         color: '#7cffe7',
     },
+    {
+        name: 'Notarzt',
+        ort: 'keinen',
+        requirement: 'Weak Heal ?-mal verwenden',
+        color: '#7cffe7',
+    },
 ]
 
 export default techTitles

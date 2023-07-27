@@ -1086,6 +1086,30 @@ const npcTitles = [
         requirement: 'Der maskierte Mann 1000-mal besiegen',
         color: '',
     },
+    {
+        name: 'Lieferant',
+        ort: 'Yajirobis Prärie',
+        requirement: 'Yajirobi 10-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: 'Katzenliebhaber',
+        ort: 'Yajirobis Prärie',
+        requirement: 'Yajirobi 100-mal besiegen',
+        color: '',
+    },
+    {
+        name: 'Unterstützer',
+        ort: 'Yajirobis Prärie',
+        requirement: 'Yajirobi 500-mal besiegen',
+        color: '',
+    },
+    {
+        name: 'Samurai',
+        ort: 'Yajirobis Prärie',
+        requirement: 'Yajirobi 1000-mal besiegen',
+        color: '',
+    },
 ]
 
 export default npcTitles
