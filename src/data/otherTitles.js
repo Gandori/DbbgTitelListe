@@ -61,12 +61,6 @@ const otherTitles = [
         color: '',
     },
     {
-        name: 'Kranich',
-        ort: 'keinen',
-        requirement: 'Kranichschule 30 mal abgeschlossen',
-        color: '',
-    },
-    {
         name: 'Rivale',
         ort: 'keinen',
         requirement: 'Ein teuflisches Finale 30 mal abgeschlossen',
