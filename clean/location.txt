@@ -1,0 +1,560 @@
+---------------------------------
+Name: Westliche Hauptstadt
+Npcs:
+    Id: 69 | Name: Straßenboxer
+---------------------------------
+Name: Muskelturm
+Npcs:
+    Id: 61 | Name: Leutnant Metallic
+    Id: 62 | Name: Ninja Lila
+    Id: 64 | Name: General White
+---------------------------------
+Name: Check-In Station
+Npcs:
+    Id: 104 | Name: Enma Daio
+---------------------------------
+Name: Wald
+Npcs:
+    Id: 1 | Name: Tiger
+---------------------------------
+Name: Ebene
+Npcs:
+    Id: 2 | Name: Pterodactyl
+---------------------------------
+Name: Kame Haus
+Npcs:
+    Id: 100 | Name: Yamchu (Schildkrötenschule)
+    Id: 101 | Name: Krillin (Schildkrötenschule)
+    Id: 158 | Name: Chichi (Dämonisch)
+    Id: 159 | Name: Yamchu (Dämonisch)
+    Id: 160 | Name: Muten Roshi (Dämonisch)
+---------------------------------
+Name: Papayainsel
+Npcs:
+    Id: 54 | Name: Bakterian
+    Id: 55 | Name: Startnummer 69
+    Id: 56 | Name: Gilian
+    Id: 57 | Name: Nam
+    Id: 58 | Name: Jackie Chun
+    Id: 82 | Name: King Chapa
+    Id: 83 | Name: Pamput
+    Id: 84 | Name: Krillin (Turnier)
+    Id: 85 | Name: Chiaotzu (Kranich-Schule)
+    Id: 86 | Name: Tenshinhan (Kranich-Schule)
+    Id: 97 | Name: Chichi
+    Id: 98 | Name: Tenshinhan (Turnier)
+    Id: 99 | Name: Piccolo (Reinkarnation)
+    Id: 248 | Name: Pintar
+    Id: 249 | Name: Shin
+    Id: 250 | Name: Mighty Mask
+    Id: 251 | Name: Super Mighty Mask
+    Id: 252 | Name: Kibito
+---------------------------------
+Name: Trainingsinsel
+Npcs:
+    Id: 10 | Name: Kid Krillin
+    Id: 52 | Name: Hai
+    Id: 53 | Name: T-Rex
+---------------------------------
+Name: Das Verlassene Dorf
+Npcs:
+    Id: 12 | Name: Oger
+    Id: 13 | Name: Stier
+    Id: 48 | Name: Dorfbewohner
+---------------------------------
+Name: Wüste
+Npcs:
+    Id: 8 | Name: Yamchu (Wüstenbandit)
+    Id: 9 | Name: Pool
+---------------------------------
+Name: Quittenwald
+Npcs:
+    Id: 70 | Name: Oberst Yellow
+    Id: 71 | Name: Tao BaiBai
+---------------------------------
+Name: Quittenturm
+Npcs:
+    Id: 14 | Name: Yajirobi
+---------------------------------
+Name: Raum von Geist und Zeit
+Npcs:
+    Id: 210 | Name: Son Gohan
+    Id: 211 | Name: Son Gohan (Super Saiyajin)
+---------------------------------
+Name: Dr. Geros Labor
+Npcs:
+    Id: 192 | Name: Tür zum Geheimen Labor
+---------------------------------
+Name: Schloss im Wald
+Npcs:
+    Id: 32 | Name: Igor
+    Id: 33 | Name: Gastel
+    Id: 34 | Name: Lucifer
+---------------------------------
+Name: Trainingsberg
+Npcs:
+    Id: 95 | Name: Test-Dummy
+---------------------------------
+Name: Pinguinhausen
+Npcs:
+    Id: 68 | Name: Arale
+---------------------------------
+Name: Jingledorf
+Npcs:
+    Id: 60 | Name: RR Soldaten
+---------------------------------
+Name: Prinz Pilafs Schloss
+Npcs:
+    Id: 17 | Name: Prinz Pilaf
+    Id: 18 | Name: Mai
+    Id: 19 | Name: Shu
+---------------------------------
+Name: Uranai Babas Palast
+Npcs:
+    Id: 76 | Name: Inkognito
+    Id: 77 | Name: Dracula
+    Id: 78 | Name: Die Mumie
+    Id: 79 | Name: Akkuman
+    Id: 80 | Name: Der maskierte Mann
+---------------------------------
+Name: Bratpfannenberg
+Npcs:
+    Id: 20 | Name: Chichi (Verliebte Seele)
+---------------------------------
+Name: Piratenhöhle
+Npcs:
+    Id: 65 | Name: Piraten-Roboter
+    Id: 66 | Name: Octopapa
+    Id: 67 | Name: General Blue
+---------------------------------
+Name: Bergweg
+Npcs:
+    Id: 3 | Name: Bärendieb
+---------------------------------
+Name: Die Pilzstadt
+Npcs:
+    Id: 50 | Name: Karottenmonster
+---------------------------------
+Name: Brown Country
+Npcs:
+    Id: 28 | Name: Bad Lunch
+---------------------------------
+Name: Wüsten-Stützpunkt
+Npcs:
+    Id: 59 | Name: Oberst Silver
+---------------------------------
+Name: Stadtstraße
+Npcs:
+    Id: 81 | Name: Pilafs Maschine
+---------------------------------
+Name: RR-Hauptquartier
+Npcs:
+    Id: 74 | Name: Adjutant Black
+    Id: 75 | Name: Adjutant Black (Rüstung)
+---------------------------------
+Name: Yajirobis Prärie
+Npcs:
+    Id: 88 | Name: Yajirobi
+    Id: 89 | Name: Zimbel
+    Id: 90 | Name: Oberteufel Piccolo (Alt)
+    Id: 94 | Name: Tamburin
+---------------------------------
+Name: Eislabyrinth
+Npcs:
+    Id: 91 | Name: Muten Roshi (Finsternis)
+---------------------------------
+Name: King Castle
+Npcs:
+    Id: 92 | Name: Trommel
+    Id: 93 | Name: Oberteufel Piccolo (Jung)
+---------------------------------
+Name: Gottespalast
+Npcs:
+    Id: 96 | Name: Mr. Popo
+    Id: 161 | Name: Salt
+    Id: 162 | Name: Mustard
+    Id: 164 | Name: Vinegar
+    Id: 165 | Name:  Spice
+    Id: 166 | Name: Garlic Jr.
+    Id: 167 | Name: Super Vinegar
+    Id: 168 | Name: Super Spice
+    Id: 169 | Name: Super Garlic Jr.
+    Id: 170 | Name: Super Garlic Jr. (Blanke Wut)
+    Id: 163 | Name: Piccolo (Dämonisch)
+---------------------------------
+Name: Wildnis
+Npcs:
+    Id: 103 | Name: Radditz
+---------------------------------
+Name: Paprika-Ödnis
+Npcs:
+    Id: 107 | Name: Pflanzenmann
+    Id: 108 | Name: Nappa
+    Id: 185 | Name: Freezer (Kybernetisch)
+    Id: 186 | Name: King Cold
+    Id: 187 | Name: Trunks (Super Saiyajin)
+---------------------------------
+Name: Gizard-Ödnis
+Npcs:
+    Id: 109 | Name: Vegeta
+    Id: 110 | Name: Vegeta (Wehraffe)
+---------------------------------
+Name: Kleine Insel
+Npcs:
+    Id: 124 | Name: Freezer
+    Id: 125 | Name: Freezer (2te Form)
+    Id: 126 | Name: Freezer (3te Form)
+    Id: 127 | Name: Freezer (Finale Form)
+    Id: 128 | Name: Freezer (50%)
+---------------------------------
+Name: Spitze Berge
+Npcs:
+    Id: 24 | Name: Jimizu
+---------------------------------
+Name: Kleines Dorf
+Npcs:
+    Id: 114 | Name: Dodoria (Überrascht)
+    Id: 141 | Name: Zarbon (Monster Form)
+---------------------------------
+Name: Haus des Oberältesten
+Npcs:
+    Id: 142 | Name: Nail 
+    Id: 144 | Name: Vegeta (Namek)
+---------------------------------
+Name: Haus tief in der Höhle
+Npcs:
+    Id: 113 | Name: Cui
+    Id: 114 | Name: Dodoria (Überrascht)
+    Id: 115 | Name: Zarbon 
+    Id: 118 | Name: Rikuum
+    Id: 119 | Name: Rikuum (Ganze Kraft)
+    Id: 120 | Name: Jeese
+    Id: 121 | Name: Baata
+    Id: 122 | Name: Captain Ginyu
+    Id: 124 | Name: Freezer
+---------------------------------
+Name: Höhle
+Npcs:
+    Id: 115 | Name: Zarbon 
+    Id: 116 | Name: Dodoria (Wütend)
+    Id: 143 | Name: Vegeta (Verwundet)
+---------------------------------
+Name: Landepunkt
+Npcs:
+    Id: 139 | Name: Soldat 1
+    Id: 140 | Name: Soldat 2
+---------------------------------
+Name: Landepunkt
+Npcs:
+    Id: 130 | Name: Gedanken-Krillin
+---------------------------------
+Name: Tentakel-See
+Npcs:
+    Id: 136 | Name: Tentakelmonster
+---------------------------------
+Name: Landepunkt
+Npcs:
+    Id: 137 | Name: Zaacro
+    Id: 138 | Name: Raiti
+---------------------------------
+Name: Wald am Fuße des Berges
+Npcs:
+    Id: 134 | Name: Waldvogel
+---------------------------------
+Name: Schloss des Riesen
+Npcs:
+    Id: 135 | Name: Riese
+---------------------------------
+Name: Waldstück
+Npcs:
+    Id: 132 | Name: Dinosaurier
+---------------------------------
+Name: Tornadowüste
+Npcs:
+    Id: 133 | Name: Tornado
+---------------------------------
+Name: Fels im Wasser
+Npcs:
+    Id: 150 | Name: Freezer (verwundet)
+    Id: 151 | Name: Freezer (Volle Kraft 100%)
+    Id: 152 | Name: Freezer (Oberkörper)
+---------------------------------
+Name: Freezers Raumschiff
+Npcs:
+    Id: 123 | Name: Captain Ginyu (Körpertausch)
+    Id: 145 | Name: Captain Ginyu (Power Up)
+---------------------------------
+Name: Kampfplatz
+Npcs:
+    Id: 117 | Name: Guldo
+    Id: 118 | Name: Rikuum
+    Id: 119 | Name: Rikuum (Ganze Kraft)
+    Id: 120 | Name: Jeese
+    Id: 121 | Name: Baata
+    Id: 122 | Name: Captain Ginyu
+---------------------------------
+Name: Admin Cave
+Npcs:
+    Id: 1 | Name: Tiger
+    Id: 2 | Name: Pterodactyl
+    Id: 3 | Name: Bärendieb
+    Id: 5 | Name: Erzaehler
+    Id: 6 | Name: Auto
+    Id: 7 | Name: Oolong
+    Id: 8 | Name: Yamchu (Wüstenbandit)
+    Id: 9 | Name: Pool
+    Id: 10 | Name: Kid Krillin
+    Id: 11 | Name: Muten Roshi
+    Id: 12 | Name: Oger
+    Id: 13 | Name: Stier
+    Id: 14 | Name: Yajirobi
+    Id: 17 | Name: Prinz Pilaf
+    Id: 18 | Name: Mai
+    Id: 19 | Name: Shu
+    Id: 20 | Name: Chichi (Verliebte Seele)
+    Id: 21 | Name: Chichi (Ruhende Liebe)
+    Id: 22 | Name: Chichi (Aufopfernde Liebe)
+    Id: 25 | Name: Meister Korin
+    Id: 28 | Name: Bad Lunch
+    Id: 48 | Name: Dorfbewohner
+    Id: 49 | Name: Feuer
+    Id: 50 | Name: Karottenmonster
+    Id: 51 | Name: Pilafs Schloss
+    Id: 52 | Name: Hai
+    Id: 53 | Name: T-Rex
+    Id: 54 | Name: Bakterian
+    Id: 55 | Name: Startnummer 69
+    Id: 56 | Name: Gilian
+    Id: 57 | Name: Nam
+    Id: 58 | Name: Jackie Chun
+    Id: 59 | Name: Oberst Silver
+    Id: 60 | Name: RR Soldaten
+    Id: 61 | Name: Leutnant Metallic
+    Id: 62 | Name: Ninja Lila
+    Id: 63 | Name: Buyon
+    Id: 64 | Name: General White
+    Id: 65 | Name: Piraten-Roboter
+    Id: 66 | Name: Octopapa
+    Id: 67 | Name: General Blue
+    Id: 68 | Name: Arale
+    Id: 69 | Name: Straßenboxer
+    Id: 70 | Name: Oberst Yellow
+    Id: 71 | Name: Tao BaiBai
+    Id: 72 | Name: Oozaru
+    Id: 73 | Name: Gatchan
+    Id: 74 | Name: Adjutant Black
+    Id: 75 | Name: Adjutant Black (Rüstung)
+    Id: 76 | Name: Inkognito
+    Id: 77 | Name: Dracula
+    Id: 78 | Name: Die Mumie
+    Id: 79 | Name: Akkuman
+    Id: 80 | Name: Der maskierte Mann
+    Id: 81 | Name: Pilafs Maschine
+    Id: 82 | Name: King Chapa
+    Id: 83 | Name: Pamput
+    Id: 84 | Name: Krillin (Turnier)
+    Id: 85 | Name: Chiaotzu (Kranich-Schule)
+    Id: 86 | Name: Tenshinhan (Kranich-Schule)
+    Id: 88 | Name: Yajirobi
+    Id: 89 | Name: Zimbel
+    Id: 90 | Name: Oberteufel Piccolo (Alt)
+    Id: 91 | Name: Muten Roshi (Finsternis)
+    Id: 92 | Name: Trommel
+    Id: 93 | Name: Oberteufel Piccolo (Jung)
+    Id: 94 | Name: Tamburin
+    Id: 95 | Name: Test-Dummy
+    Id: 96 | Name: Mr. Popo
+    Id: 97 | Name: Chichi
+    Id: 98 | Name: Tenshinhan (Turnier)
+    Id: 99 | Name: Piccolo (Reinkarnation)
+    Id: 100 | Name: Yamchu (Schildkrötenschule)
+    Id: 101 | Name: Krillin (Schildkrötenschule)
+    Id: 102 | Name: Piccolo
+    Id: 103 | Name: Radditz
+    Id: 104 | Name: Enma Daio
+    Id: 105 | Name: Bananas
+    Id: 106 | Name: Gregory
+    Id: 107 | Name: Pflanzenmann
+    Id: 108 | Name: Nappa
+    Id: 109 | Name: Vegeta
+    Id: 110 | Name: Vegeta (Wehraffe)
+    Id: 113 | Name: Cui
+    Id: 114 | Name: Dodoria (Überrascht)
+    Id: 115 | Name: Zarbon 
+    Id: 116 | Name: Dodoria (Wütend)
+    Id: 117 | Name: Guldo
+    Id: 118 | Name: Rikuum
+    Id: 119 | Name: Rikuum (Ganze Kraft)
+    Id: 120 | Name: Jeese
+    Id: 121 | Name: Baata
+    Id: 122 | Name: Captain Ginyu
+    Id: 123 | Name: Captain Ginyu (Körpertausch)
+    Id: 124 | Name: Freezer
+    Id: 125 | Name: Freezer (2te Form)
+    Id: 126 | Name: Freezer (3te Form)
+    Id: 127 | Name: Freezer (Finale Form)
+    Id: 128 | Name: Freezer (50%)
+    Id: 129 | Name: Wütende Chichi
+    Id: 130 | Name: Gedanken-Krillin
+    Id: 131 | Name: CC Test
+    Id: 132 | Name: Dinosaurier
+    Id: 133 | Name: Tornado
+    Id: 134 | Name: Waldvogel
+    Id: 135 | Name: Riese
+    Id: 136 | Name: Tentakelmonster
+    Id: 137 | Name: Zaacro
+    Id: 138 | Name: Raiti
+    Id: 139 | Name: Soldat 1
+    Id: 140 | Name: Soldat 2
+    Id: 141 | Name: Zarbon (Monster Form)
+    Id: 142 | Name: Nail 
+    Id: 143 | Name: Vegeta (Verwundet)
+    Id: 144 | Name: Vegeta (Namek)
+    Id: 145 | Name: Captain Ginyu (Power Up)
+    Id: 147 | Name: Piccolo (volle Kraft)
+    Id: 148 | Name: Vegeta (Zenkai - Support)
+    Id: 149 | Name: Pedo Vegeta 
+    Id: 150 | Name: Freezer (verwundet)
+    Id: 151 | Name: Freezer (Volle Kraft 100%)
+    Id: 152 | Name: Freezer (Oberkörper)
+    Id: 154 | Name: Vegeta (Zenkai)
+    Id: 155 | Name: Son Goku
+    Id: 156 | Name: Vergil (Dummy)
+    Id: 158 | Name: Chichi (Dämonisch)
+    Id: 159 | Name: Yamchu (Dämonisch)
+    Id: 160 | Name: Muten Roshi (Dämonisch)
+    Id: 161 | Name: Salt
+    Id: 162 | Name: Mustard
+    Id: 163 | Name: Piccolo (Dämonisch)
+    Id: 164 | Name: Vinegar
+    Id: 165 | Name:  Spice
+    Id: 166 | Name: Garlic Jr.
+    Id: 167 | Name: Super Vinegar
+    Id: 168 | Name: Super Spice
+    Id: 169 | Name: Super Garlic Jr.
+    Id: 170 | Name: Super Garlic Jr. (Blanke Wut)
+    Id: 173 | Name: Verdutzte Bulma
+    Id: 174 | Name: Krillin
+    Id: 175 | Name: Son Gohan
+    Id: 176 | Name: Son Goku (Super Saiyajin)
+    Id: 177 | Name: Dende
+    Id: 178 | Name: Polunga
+    Id: 181 | Name: Force Soldat (3)
+    Id: 196 | Name: Cell (1st Form)
+---------------------------------
+Name: Admin Island
+Npcs:
+    Id: 259 | Name: Dabura
+    Id: 260 | Name: Majin Buu (Erweckt)
+    Id: 262 | Name: Majin Buu
+    Id: 263 | Name: Majin Buu (Zorn)
+    Id: 265 | Name: Majin Buu (Dämon)
+    Id: 156 | Name: Vergil (Dummy)
+---------------------------------
+Name: Papaya-Stadt
+Npcs:
+    Id: 188 | Name: Cyborg 
+---------------------------------
+Name: Gebirgskette
+Npcs:
+    Id: 191 | Name: Cyborg No. 20 (Aufgeladen)
+---------------------------------
+Name: Hochebene
+Npcs:
+    Id: 189 | Name: Cyborg No. 19
+    Id: 190 | Name: Cyborg No. 19 (Aufgeladen)
+---------------------------------
+Name: Illusionsebene
+Npcs:
+    Id: 130 | Name: Gedanken-Krillin
+    Id: 132 | Name: Dinosaurier
+    Id: 133 | Name: Tornado
+    Id: 134 | Name: Waldvogel
+    Id: 135 | Name: Riese
+---------------------------------
+Name: Gebirgspass
+Npcs:
+    Id: 193 | Name: Cyborg No. 18
+---------------------------------
+Name: Ingwerstadt
+Npcs:
+    Id: 194 | Name: Insektenmonster
+    Id: 195 | Name: Cell 
+---------------------------------
+Name: Unbewohnte Insel
+Npcs:
+    Id: 197 | Name: Cyborg No. 17
+---------------------------------
+Name: Vulkanküste
+Npcs:
+    Id: 198 | Name: Cyborg No. 17 (Volle Kraft)
+    Id: 196 | Name: Cell (1st Form)
+    Id: 200 | Name: Cell (1st Form Power Up)
+    Id: 202 | Name: Cell (2nd Form)
+---------------------------------
+Name: Ruhige Insel
+Npcs:
+    Id: 204 | Name: Cell (2nd Form Wütend)
+    Id: 206 | Name: Super Vegeta
+    Id: 207 | Name: Cell (3rd Form)
+---------------------------------
+Name: Cells Arena
+Npcs:
+    Id: 212 | Name: Cell (3rd Form Perfekt)
+    Id: 213 | Name: Cell (3rd Form Zenkai)
+    Id: 214 | Name: Cell Junior
+    Id: 215 | Name: Cell (3rd Form Zenkai Boost)
+    Id: 216 | Name: Cell (3rd Ultra Saiyajin)
+    Id: 217 | Name: Cell (Super Perfekt)
+---------------------------------
+Name: Höllengefängnis
+Npcs:
+    Id: 59 | Name: Oberst Silver
+    Id: 60 | Name: RR Soldaten
+    Id: 62 | Name: Ninja Lila
+    Id: 64 | Name: General White
+    Id: 67 | Name: General Blue
+    Id: 70 | Name: Oberst Yellow
+    Id: 74 | Name: Adjutant Black
+    Id: 89 | Name: Zimbel
+    Id: 94 | Name: Tamburin
+    Id: 92 | Name: Trommel
+    Id: 93 | Name: Oberteufel Piccolo (Jung)
+    Id: 103 | Name: Radditz
+    Id: 108 | Name: Nappa
+    Id: 113 | Name: Cui
+    Id: 116 | Name: Dodoria (Wütend)
+    Id: 141 | Name: Zarbon (Monster Form)
+    Id: 117 | Name: Guldo
+    Id: 118 | Name: Rikuum
+    Id: 120 | Name: Jeese
+    Id: 121 | Name: Baata
+    Id: 127 | Name: Freezer (Finale Form)
+    Id: 161 | Name: Salt
+    Id: 162 | Name: Mustard
+    Id: 164 | Name: Vinegar
+    Id: 165 | Name:  Spice
+    Id: 186 | Name: King Cold
+    Id: 226 | Name: Cell (Super Perfekt Zenkai)
+---------------------------------
+Name: Tunier Insel
+Npcs:
+    Id: 227 | Name: Caterpi
+    Id: 228 | Name: Arqua
+    Id: 229 | Name: Maraikoh
+    Id: 230 | Name: Paikuhan
+    Id: 231 | Name: Paikuhan (Volle Kraft)
+---------------------------------
+Name: Gemütliches Haus
+Npcs:
+    Id: 244 | Name: Son Goten (Super Saiyajin)
+---------------------------------
+Name: Innere des Raumschiffs
+Npcs:
+    Id: 254 | Name: Pui Pui
+    Id: 255 | Name: Yakon
+    Id: 256 | Name: Dabura (Herr des Dämonenreichs)
+---------------------------------
+Name: Ödnis
+Npcs:
+    Id: 257 | Name: Majin Vegeta

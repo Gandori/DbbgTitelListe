@@ -96,22 +96,21 @@ def create_tables(cursor: sqlite3.Cursor) -> None:
 
 
 def get_npc_from_locations(cursor: sqlite3.Cursor) -> None:
-    locations: list[tuple] = []
     cursor.execute("select name, npcs from places")
-    for npcs in cursor.fetchall():
-        place_name: str = npcs[0]
-        place_npcs_ids: str = npcs[1]
+    with open("location.txt", "w") as file:
+        for npcs in cursor.fetchall():
+            place_name: str = npcs[0]
+            place_npcs_ids: str = npcs[1]
+            if place_npcs_ids:
+                file.write("---------------------------------\n")
+                file.write(f"Name: {place_name}\n")
+                file.write(f"Npcs:\n")
 
-        if place_npcs_ids:
-            print("---------------------------------")
-            print(f"Name: {place_name}")
-            print(f"Npcs:")
-
-        for npc in place_npcs_ids.split(";"):
-            cursor.execute(f"select name from npcs where id = '{npc}'")
-            data = cursor.fetchone()
-            if data:
-                print(f"    Id: {npc} | Name: {data[0]}")
+            for npc in place_npcs_ids.split(";"):
+                cursor.execute(f"select name from npcs where id = '{npc}'")
+                data = cursor.fetchone()
+                if data:
+                    file.write(f"    Id: {npc} | Name: {data[0]}\n")
 
 
 if __name__ == "__main__":
@@ -141,9 +140,7 @@ if __name__ == "__main__":
                 npc: str = data[0]
                 requirements: str = titel[2]
 
-                file.write("{\n")
-                file.write(f"   name: '{name}',\n")
-                file.write(f"   ort:,\n")
-                file.write(f"   requirement: '{npc} {requirements} besiegen',\n")
-                file.write(f"   color:,\n")
-                file.write("},\n")
+                file.write("---------------------------------\n")
+                file.write(f"Npc Id: {npc_id}\n")
+                file.write(f"Titel: {name}\n")
+                file.write(f"Requirement: {npc} {requirements}-mal besiegen\n")
