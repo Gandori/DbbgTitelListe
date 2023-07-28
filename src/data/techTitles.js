@@ -56,19 +56,22 @@ const techTitles = [
     {
         name: 'Todbringer',
         ort: 'keinen',
-        requirement: 'Haretsu Majutsu 10-mal verwenden',
+        requirement:
+            'Mit Haretsu Majutsu 10-mal eine Spieler Erfolgreich Besiegen',
         color: '#7cffe7',
     },
     {
         name: 'Serienmörder',
         ort: 'keinen',
-        requirement: 'Haretsu Majutsu 100-mal verwenden',
+        requirement:
+            'Mit Haretsu Majutsu 100-mal eine Spieler Erfolgreich Besiegen',
         color: '#7cffe7',
     },
     {
         name: 'Massenmörder',
         ort: 'keinen',
-        requirement: 'Haretsu Majutsu 250-mal verwenden',
+        requirement:
+            'Mit Haretsu Majutsu 250-mal eine Spieler Erfolgreich Besiegen',
         color: '#7cffe7',
     },
     {
