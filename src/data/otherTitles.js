@@ -52,7 +52,7 @@ const otherTitles = [
         name: 'Reisender',
         ort: 'keinen',
         requirement: 'Der Spieler ist schon weit gereist',
-        color: '',
+        color: '#ffbb29',
     },
     {
         name: 'Tyrann',
