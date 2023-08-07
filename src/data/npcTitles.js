@@ -522,7 +522,7 @@ const npcTitles = [
         color: '#ffbb29',
     },
     {
-        name: 'Nr.69',
+        name: '69',
         ort: 'Papayainsel',
         requirement: 'Startnummer 69 1000-mal besiegen',
         color: '#ff2828',
@@ -558,7 +558,7 @@ const npcTitles = [
         color: '#ff2828',
     },
     {
-        name: '?',
+        name: 'Drachen-Nemesis',
         ort: 'Papayainsel',
         requirement: 'Gilian 10000-mal besiegen',
         color: '#383838',
