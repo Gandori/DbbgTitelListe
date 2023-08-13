@@ -769,6 +769,12 @@ const npcTitles = [
         color: '',
     },
     {
+        name: '?',
+        ort: 'Westliche Hauptstadt',
+        requirement: 'Straßenboxer 10000-mal besiegen',
+        color: '',
+    },
+    {
         name: 'Programmiert',
         ort: 'Piratenhöhle',
         requirement: 'Piraten-Roboter 10-mal besiegen',
@@ -880,7 +886,7 @@ const npcTitles = [
         name: 'Yellow',
         ort: 'Quittenwald',
         requirement: 'Oberst Yellow 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
     },
     {
         name: 'Oberst',
@@ -1156,7 +1162,7 @@ const npcTitles = [
         name: 'Filmstar',
         ort: 'Papayainsel',
         requirement: 'Pamput 1000-mal besiegen',
-        color: '',
+        color: '#ff2828',
     },
     {
         name: 'Mensch',
