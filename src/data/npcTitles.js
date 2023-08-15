@@ -636,13 +636,13 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: 'Silver',
+        name: 'Armee',
         ort: 'Wüsten-Stützpunkt',
         requirement: 'Oberst Silver 500-mal besiegen',
         color: '#ffbb29',
     },
     {
-        name: 'Armee',
+        name: 'Silver',
         ort: 'Wüsten-Stützpunkt',
         requirement: 'Oberst Silver 1000-mal besiegen',
         color: '#ff2828',
