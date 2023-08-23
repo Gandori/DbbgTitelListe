@@ -684,16 +684,16 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Metallic',
         ort: 'Muskelturm',
         requirement: 'Leutnant Metallic 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
     },
     {
-        name: '?',
+        name: ' Terminator',
         ort: 'Muskelturm',
         requirement: 'Leutnant Metallic 1000-mal besiegen',
-        color: '',
+        color: '#ff2828',
     },
     {
         name: 'Schattenkrieger',
@@ -718,6 +718,12 @@ const npcTitles = [
         ort: 'Muskelturm',
         requirement: 'Ninja Lila 1000-mal besiegen',
         color: '#ff2828',
+    },
+    {
+        name: '',
+        ort: 'Muskelturm',
+        requirement: 'Ninja Lila 5000-mal besiegen',
+        color: '',
     },
     {
         name: 'Geiselnehmer',
@@ -750,11 +756,10 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: '100.000 Zeni',
         ort: 'Westliche Hauptstadt',
         requirement: 'Straßenboxer 100-mal besiegen',
-        count: 100,
-        color: '',
+        color: '#ffd858',
     },
     {
         name: '?',
