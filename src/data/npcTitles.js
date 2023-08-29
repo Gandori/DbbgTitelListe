@@ -762,10 +762,10 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: ' Sparringspartner',
         ort: 'Westliche Hauptstadt',
         requirement: 'Straßenboxer 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
     },
     {
         name: '?',
