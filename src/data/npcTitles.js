@@ -768,10 +768,10 @@ const npcTitles = [
         color: '#ffbb29',
     },
     {
-        name: '?',
+        name: 'Streetfighter',
         ort: 'Westliche Hauptstadt',
         requirement: 'Straßenboxer 1000-mal besiegen',
-        color: '',
+        color: '#ff2828',
     },
     {
         name: '?',
@@ -909,7 +909,7 @@ const npcTitles = [
         name: 'Söldner',
         ort: 'Quittenwald',
         requirement: 'Tao BaiBai 100-mal besiegen',
-        color: '',
+        color: '#ffd858',
     },
     {
         name: 'Assasine',
