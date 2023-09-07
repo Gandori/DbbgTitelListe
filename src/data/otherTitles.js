@@ -118,7 +118,7 @@ const otherTitles = [
         name: 'Auferstanden',
         ort: 'keinen',
         requirement: 'Der Spieler ist aus dem Jenseits zurückgekehrt',
-        color: '',
+        color: '#ffd858',
     },
 ]
 

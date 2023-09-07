@@ -897,7 +897,7 @@ const npcTitles = [
         name: 'Oberst',
         ort: 'Quittenwald',
         requirement: 'Oberst Yellow 1000-mal besiegen',
-        color: '',
+        color: '#ff2828',
     },
     {
         name: 'Schnurrbart',
@@ -1638,10 +1638,10 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Pflock',
         ort: 'Check-In Station',
         requirement: 'Count Drac 100-mal besiegen',
-        color: '',
+        color: '#ffd858',
     },
     {
         name: '?',
