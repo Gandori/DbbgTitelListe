@@ -1395,7 +1395,7 @@ const npcTitles = [
         name: 'Erfrischt',
         ort: 'King Castle',
         requirement: 'Oberteufel Piccolo (Jung) 10-mal besiegen',
-        color: '',
+        color: '#ffd858',
     },
     {
         name: 'Dämonisch',
@@ -1644,9 +1644,15 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Cameo',
         ort: 'Check-In Station',
         requirement: 'Ackman 10-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: '?',
+        ort: 'Check-In Station',
+        requirement: 'Ackman 100-mal besiegen',
         color: '',
     },
     {
