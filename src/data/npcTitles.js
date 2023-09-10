@@ -915,7 +915,7 @@ const npcTitles = [
         name: 'Assasine',
         ort: 'Quittenwald',
         requirement: 'Tao BaiBai 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
     },
     {
         name: 'Profikiller',
@@ -1644,6 +1644,12 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
+        name: '?',
+        ort: 'Check-In Station',
+        requirement: 'Count Drac 500-mal besiegen',
+        color: '',
+    },
+    {
         name: 'Cameo',
         ort: 'Check-In Station',
         requirement: 'Ackman 10-mal besiegen',
@@ -1656,9 +1662,15 @@ const npcTitles = [
         color: '',
     },
     {
-        name: '?',
+        name: 'Entscheider',
         ort: 'Check-In Station',
         requirement: 'Enma Daio 10-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: '?',
+        ort: 'Check-In Station',
+        requirement: 'Enma Daio 100-mal besiegen',
         color: '',
     },
 ]
