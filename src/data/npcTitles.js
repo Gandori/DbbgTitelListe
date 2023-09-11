@@ -1101,13 +1101,13 @@ const npcTitles = [
         name: 'Bunt',
         ort: 'Stadtstraße',
         requirement: 'Pilafs Maschine 10-mal besiegen',
-        color: '',
+        color: '#ffd858',
     },
     {
         name: 'Einheit',
         ort: 'Stadtstraße',
         requirement: 'Pilafs Maschine 100-mal besiegen',
-        color: '',
+        color: '#ffd858',
     },
     {
         name: 'Kombiniert',
