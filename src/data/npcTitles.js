@@ -789,7 +789,7 @@ const npcTitles = [
         name: 'Gebaut',
         ort: 'Piratenhöhle',
         requirement: 'Piraten-Roboter 100-mal besiegen',
-        color: '',
+        color: '#ffd858',
     },
     {
         name: 'Roboter',
@@ -813,7 +813,7 @@ const npcTitles = [
         name: 'Rauch',
         ort: 'Piratenhöhle',
         requirement: 'Octopapa 100-mal besiegen',
-        color: '',
+        color: '#ffd858',
     },
     {
         name: 'Tentakel',
@@ -837,7 +837,7 @@ const npcTitles = [
         name: 'Befehlshaber',
         ort: 'Piratenhöhle',
         requirement: 'General Blue 100-mal besiegen',
-        color: '',
+        color: '#ffd858',
     },
     {
         name: 'Vorgesetzter',
@@ -861,7 +861,7 @@ const npcTitles = [
         name: 'Robotik',
         ort: 'Pinguinhausen',
         requirement: 'Arale 100-mal besiegen',
-        color: '',
+        color: '#ffd858',
     },
     {
         name: 'Mechanisch',
@@ -1167,7 +1167,7 @@ const npcTitles = [
         name: 'Filmstar',
         ort: 'Papayainsel',
         requirement: 'Pamput 1000-mal besiegen',
-        color: '#ff2828',
+        color: '',
     },
     {
         name: 'Mensch',
@@ -1467,7 +1467,7 @@ const npcTitles = [
         name: 'Nörgeltante',
         ort: 'Papayainsel',
         requirement: 'Chichi 100-mal besiegen',
-        color: '',
+        color: '#ffd858',
     },
     {
         name: 'Verliebt',
