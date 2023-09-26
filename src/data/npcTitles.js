@@ -1491,7 +1491,7 @@ const npcTitles = [
         name: 'Hybrid',
         ort: 'Papayainsel',
         requirement: 'Tenshinhan (Turnier) 100-mal besiegen',
-        color: '',
+        color: '#ffd858',
     },
     {
         name: 'Triclops',
@@ -1515,7 +1515,7 @@ const npcTitles = [
         name: 'Rücksichtslos',
         ort: 'Papayainsel',
         requirement: 'Piccolo (Reinkarnation) 100-mal besiegen',
-        color: '',
+        color: '#ffd858',
     },
     {
         name: 'Reinkarnation',
