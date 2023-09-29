@@ -924,6 +924,18 @@ const npcTitles = [
         color: '#ff2828',
     },
     {
+        name: '?',
+        ort: 'Quittenturm',
+        requirement: 'Meister Quitte 10-mal besiegen',
+        color: '',
+    },
+    {
+        name: '?',
+        ort: 'Quittenturm',
+        requirement: 'Yajirobi 10-mal besiegen',
+        color: '',
+    },
+    {
         name: 'Assistent',
         ort: 'RR-Hauptquartier',
         requirement: 'Adjutant Black 10-mal besiegen',
@@ -1137,6 +1149,12 @@ const npcTitles = [
         name: '8-Hand',
         ort: 'Papayainsel',
         requirement: 'King Chapa 500-mal besiegen',
+        color: '#ffbb29',
+    },
+    {
+        name: 'Königin',
+        ort: 'Papayainsel',
+        requirement: 'King Chapa 999-mal besiegen',
         color: '',
     },
     {
@@ -1161,7 +1179,7 @@ const npcTitles = [
         name: 'Unaufhaltbar',
         ort: 'Papayainsel',
         requirement: 'Pamput 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
     },
     {
         name: 'Filmstar',
@@ -1191,7 +1209,7 @@ const npcTitles = [
         name: 'Turnierkämpfer',
         ort: 'Papayainsel',
         requirement: 'Krillin (Turnier) 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
     },
     {
         name: 'Rivale',
@@ -1215,7 +1233,7 @@ const npcTitles = [
         name: 'Telekinese',
         ort: 'Papayainsel',
         requirement: 'Chiaotzu (Kranich-Schule) 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
     },
     {
         name: 'Telepath',
@@ -1239,7 +1257,7 @@ const npcTitles = [
         name: 'Flieger',
         ort: 'Papayainsel',
         requirement: 'Tenshinhan (Kranich-Schule) 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
     },
     {
         name: 'Kranich-Schule',
@@ -1473,7 +1491,7 @@ const npcTitles = [
         name: 'Verliebt',
         ort: 'Papayainsel',
         requirement: 'Chichi 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
     },
     {
         name: 'Mutter',
@@ -1530,10 +1548,10 @@ const npcTitles = [
         color: '',
     },
     {
-        name: '?',
+        name: 'Schwächling',
         ort: 'Kame House',
         requirement: 'Yamchu 10-mal besiegen',
-        color: '',
+        color: '#ffd858',
     },
     {
         name: '?',
@@ -1542,22 +1560,10 @@ const npcTitles = [
         color: '',
     },
     {
-        name: '?',
-        ort: 'Kame House',
-        requirement: 'Yamchu 500-mal besiegen',
-        color: '',
-    },
-    {
-        name: '?',
-        ort: 'Kame House',
-        requirement: 'Yamchu 1000-mal besiegen',
-        color: '',
-    },
-    {
-        name: '?',
+        name: 'Kahlköpfig',
         ort: 'Kame House',
         requirement: 'Krillin 10-mal besiegen',
-        color: '',
+        color: '#ffd858',
     },
     {
         name: '?',
@@ -1566,39 +1572,15 @@ const npcTitles = [
         color: '',
     },
     {
-        name: '?',
-        ort: 'Kame House',
-        requirement: 'Krillin 500-mal besiegen',
-        color: '',
-    },
-    {
-        name: '?',
-        ort: 'Kame House',
-        requirement: 'Krillin 1000-mal besiegen',
-        color: '',
-    },
-    {
-        name: '?',
+        name: 'Scanner',
         ort: 'Wildnis',
         requirement: 'Radditz 10-mal besiegen',
-        color: '',
+        color: '#ffd858',
     },
     {
         name: '?',
         ort: 'Wildnis',
         requirement: 'Radditz 100-mal besiegen',
-        color: '',
-    },
-    {
-        name: '?',
-        ort: 'Wildnis',
-        requirement: 'Radditz 500-mal besiegen',
-        color: '',
-    },
-    {
-        name: '?',
-        ort: 'Wildnis',
-        requirement: 'Radditz 1000-mal besiegen',
         color: '',
     },
     {
@@ -1677,6 +1659,18 @@ const npcTitles = [
         name: '?',
         ort: 'Check-In Station',
         requirement: 'Enma Daio 100-mal besiegen',
+        color: '',
+    },
+    {
+        name: '?',
+        ort: 'Gizard-Ödnis',
+        requirement: 'Vegeta 10-mal besiegen',
+        color: '',
+    },
+    {
+        name: '?',
+        ort: 'Gizard-Ödnis',
+        requirement: 'Vegeta (Wehraffe) 10-mal besiegen',
         color: '',
     },
 ]
