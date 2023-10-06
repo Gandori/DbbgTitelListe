@@ -1662,9 +1662,15 @@ const npcTitles = [
         color: '',
     },
     {
-        name: '?',
+        name: 'Stolz',
         ort: 'Gizard-Ödnis',
         requirement: 'Vegeta 10-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: '?',
+        ort: 'Gizard-Ödnis',
+        requirement: 'Vegeta 100-mal besiegen',
         color: '',
     },
     {
