@@ -948,10 +948,10 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Black',
         ort: 'RR-Hauptquartier',
         requirement: 'Adjutant Black 500-mal besiegen',
-        color: '',
+        color: '#ffbb28',
     },
     {
         name: '?',
@@ -972,10 +972,10 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Rechte Hand',
         ort: 'RR-Hauptquartier',
         requirement: 'Adjutant Black (Rüstung) 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
     },
     {
         name: '?',
