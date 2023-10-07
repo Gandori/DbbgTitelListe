@@ -1644,9 +1644,15 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: '1993',
         ort: 'Check-In Station',
         requirement: 'Ackman 100-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: '?',
+        ort: 'Check-In Station',
+        requirement: 'Ackman 500-mal besiegen',
         color: '',
     },
     {
