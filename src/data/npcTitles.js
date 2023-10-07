@@ -1674,6 +1674,30 @@ const npcTitles = [
         color: '',
     },
     {
+        name: 'Grünzeug',
+        ort: 'Paprika-Ödnis',
+        requirement: 'Pflanzenmann 10-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: '?',
+        ort: 'Paprika-Ödnis',
+        requirement: 'Pflanzenmann 100-mal besiegen',
+        color: '',
+    },
+    {
+        name: 'Glatzi',
+        ort: 'Paprika-Ödnis',
+        requirement: 'Nappa 10-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: '?',
+        ort: 'Paprika-Ödnis',
+        requirement: 'Nappa 100-mal besiegen',
+        color: '',
+    },
+    {
         name: 'Stolz',
         ort: 'Gizard-Ödnis',
         requirement: 'Vegeta 10-mal besiegen',
