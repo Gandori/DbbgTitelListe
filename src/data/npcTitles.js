@@ -1728,9 +1728,15 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Herzlos',
         ort: 'Gizard-Ödnis',
         requirement: 'Vegeta 100-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: '?',
+        ort: 'Gizard-Ödnis',
+        requirement: 'Vegeta 500-mal besiegen',
         color: '',
     },
     {
