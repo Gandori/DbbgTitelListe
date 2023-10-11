@@ -1549,26 +1549,38 @@ const npcTitles = [
     },
     {
         name: 'Schwächling',
-        ort: 'Kame House',
+        ort: 'Kame Hause',
         requirement: 'Yamchu 10-mal besiegen',
         color: '#ffd858',
     },
     {
-        name: '?',
-        ort: 'Kame House',
+        name: 'Ex-Bandit',
+        ort: 'Kame Hause',
         requirement: 'Yamchu 100-mal besiegen',
-        color: '',
-    },
-    {
-        name: 'Kahlköpfig',
-        ort: 'Kame House',
-        requirement: 'Krillin 10-mal besiegen',
         color: '#ffd858',
     },
     {
         name: '?',
-        ort: 'Kame House',
+        ort: 'Kame Hause',
+        requirement: 'Yamchu 500-mal besiegen',
+        color: '',
+    },
+    {
+        name: 'Kahlköpfig',
+        ort: 'Kame Hause',
+        requirement: 'Krillin 10-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: 'Mönchsfrisur',
+        ort: 'Kame Hause',
         requirement: 'Krillin 100-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: '?',
+        ort: 'Kame Hause',
+        requirement: 'Krillin 500-mal besiegen',
         color: '',
     },
     {
@@ -1578,9 +1590,15 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Feind',
         ort: 'Wildnis',
         requirement: 'Radditz 100-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: '?',
+        ort: 'Wildnis',
+        requirement: 'Radditz 500-mal besiegen',
         color: '',
     },
     {
