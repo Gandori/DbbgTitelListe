@@ -954,9 +954,15 @@ const npcTitles = [
         color: '#ffbb28',
     },
     {
-        name: '?',
+        name: 'Adjutant',
         ort: 'RR-Hauptquartier',
         requirement: 'Adjutant Black 1000-mal besiegen',
+        color: '#ff2828',
+    },
+    {
+        name: '?',
+        ort: 'RR-Hauptquartier',
+        requirement: 'Adjutant Black 10000-mal besiegen',
         color: '',
     },
     {
@@ -978,10 +984,10 @@ const npcTitles = [
         color: '#ffbb29',
     },
     {
-        name: '?',
+        name: 'Maschine',
         ort: 'RR-Hauptquartier',
         requirement: 'Adjutant Black (Rüstung) 1000-mal besiegen',
-        color: '',
+        color: '#ff2828',
     },
     {
         name: 'Unauffällig',
