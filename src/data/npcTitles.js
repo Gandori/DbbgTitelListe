@@ -1413,7 +1413,7 @@ const npcTitles = [
         name: 'Trommler',
         ort: 'King Castle',
         requirement: 'Trommel 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
     },
     {
         name: 'Schlagzeuger',
@@ -1437,7 +1437,7 @@ const npcTitles = [
         name: 'Chaos',
         ort: 'King Castle',
         requirement: 'Oberteufel Piccolo (Jung) 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
     },
     {
         name: 'Dämonin',
