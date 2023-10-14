@@ -2106,6 +2106,27 @@ const npcTitles = [
         requirement: 'Raiti 10-mal besiegen',
         color: '',
     },
+    {
+        name: '?',
+        planet: 'Namek',
+        location: 'Landepunkt',
+        requirement: 'Soldate 1 10-mal besiegen',
+        color: '',
+    },
+    {
+        name: '?',
+        planet: 'Namek',
+        location: 'Landepunkt',
+        requirement: 'Soldate 2 10-mal besiegen',
+        color: '',
+    },
+    {
+        name: '?',
+        planet: 'Namek',
+        location: 'Kleines Dorf',
+        requirement: 'Dodoria 10-mal besiegen',
+        color: '',
+    },
 ]
 
 export default npcTitles
