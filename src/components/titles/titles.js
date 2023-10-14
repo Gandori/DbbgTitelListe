@@ -56,8 +56,8 @@ export default function Titles() {
             let titleName = title.name
             let titleNameLowerCase = titleName.toLowerCase()
 
-            let titleOrt = title.ort
-            let titleOrtLowerCase = titleOrt.toLowerCase()
+            let titleLocation = title?.location
+            let titleLocationLowerCase = titleLocation?.toLowerCase()
 
             let titleReq = title.requirement
             let titleReqLowerCase = titleReq.toLowerCase()
@@ -65,8 +65,8 @@ export default function Titles() {
             if (
                 titleName.startsWith(value) ||
                 titleNameLowerCase.startsWith(value) ||
-                titleOrt.startsWith(value) ||
-                titleOrtLowerCase.startsWith(value) ||
+                titleLocation?.startsWith(value) ||
+                titleLocationLowerCase?.startsWith(value) ||
                 titleReq.startsWith(value) ||
                 titleReqLowerCase.startsWith(value)
             ) {
