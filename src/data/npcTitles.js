@@ -2054,7 +2054,7 @@ const npcTitles = [
         name: '?',
         planet: 'Täuschungsplanet',
         location: 'Illusionsebene',
-        requirement: 'Gedanken-Krillin 10-mal besiegen',
+        requirement: 'Gedanken-Krillin 100-mal besiegen',
         color: '',
     },
     {
