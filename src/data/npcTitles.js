@@ -2127,6 +2127,27 @@ const npcTitles = [
         requirement: 'Dodoria 10-mal besiegen',
         color: '',
     },
+    {
+        name: '?',
+        planet: 'Namek',
+        location: 'Haus des Oberältesten',
+        requirement: 'Nail 10-mal besiegen',
+        color: '',
+    },
+    {
+        name: '?',
+        planet: 'Namek',
+        location: 'Höhle',
+        requirement: 'Vegeta 10-mal besiegen',
+        color: '',
+    },
+    {
+        name: '?',
+        planet: 'Namek',
+        location: 'Höhle',
+        requirement: 'Zarbon 10-mal besiegen',
+        color: '',
+    },
 ]
 
 export default npcTitles
