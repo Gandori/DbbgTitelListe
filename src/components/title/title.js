@@ -1,21 +1,35 @@
-import * as React from 'react'
+import React from 'react'
 import './title.sass'
 
-export default function Title({ title }) {
+function Title({ title }) {
     return (
         <div className="title">
-            <b>Titel</b>
-            <label style={{ color: title.color }}>{title.name}</label>
-
-            {title.ort == 'keinen' || (
-                <>
-                    <b>Ort</b>
-                    <label>{title.ort}</label>
-                </>
+            {title?.name && (
+                <div className="titleName">
+                    <b>Titel</b>
+                    <label style={{ color: title.color }}>{title.name}</label>
+                </div>
             )}
-
-            <b>Anforderung</b>
-            <label>{title.requirement}</label>
+            {title?.planet && (
+                <div className="titlePlanet">
+                    <b>Planet</b>
+                    <label>{title.planet}</label>
+                </div>
+            )}
+            {title?.location && (
+                <div className="titleLocation">
+                    <b>Ort</b>
+                    <label>{title.location}</label>
+                </div>
+            )}
+            {title?.requirement && (
+                <div className="titleRequirement">
+                    <b>Anforderung</b>
+                    <label>{title.requirement}</label>
+                </div>
+            )}
         </div>
     )
 }
+
+export default Title
