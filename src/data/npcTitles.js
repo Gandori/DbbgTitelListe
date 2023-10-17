@@ -2197,6 +2197,20 @@ const npcTitles = [
         requirement: 'Captain Ginyu 10-mal besiegen',
         color: '',
     },
+    {
+        name: '?',
+        planet: 'Namek',
+        location: 'Freezers Raumschiff ',
+        requirement: 'Captain Ginyu (Goku) 10-mal besiegen',
+        color: '',
+    },
+    {
+        name: '?',
+        planet: 'Namek',
+        location: 'Freezers Raumschiff ',
+        requirement: 'Captain Ginyu (Goku Power-up) 10-mal besiegen',
+        color: '',
+    },
 ]
 
 export default npcTitles
