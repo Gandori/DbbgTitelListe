@@ -2190,6 +2190,13 @@ const npcTitles = [
         requirement: 'Baata 10-mal besiegen',
         color: '',
     },
+    {
+        name: '?',
+        planet: 'Namek',
+        location: 'Kampfplatz',
+        requirement: 'Captain Ginyu 10-mal besiegen',
+        color: '',
+    },
 ]
 
 export default npcTitles
