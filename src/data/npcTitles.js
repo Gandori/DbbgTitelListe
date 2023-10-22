@@ -2114,17 +2114,31 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Echse',
         planet: 'Namek',
         location: 'Landepunkt',
         requirement: 'Soldate 1 100-mal besiegen',
-        color: '',
+        color: '#ffd858',
     },
     {
         name: '?',
         planet: 'Namek',
         location: 'Landepunkt',
+        requirement: 'Soldate 1 500-mal besiegen',
+        color: '',
+    },
+    {
+        name: 'Schwach',
+        planet: 'Namek',
+        location: 'Landepunkt',
         requirement: 'Soldate 2 10-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: '?',
+        planet: 'Namek',
+        location: 'Landepunkt',
+        requirement: 'Soldate 2 100-mal besiegen',
         color: '',
     },
     {
