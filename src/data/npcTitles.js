@@ -2142,10 +2142,31 @@ const npcTitles = [
         color: '',
     },
     {
-        name: '?',
+        name: 'Blind',
         planet: 'Namek',
         location: 'Kleines Dorf',
         requirement: 'Dodoria 10-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: '?',
+        planet: 'Namek',
+        location: 'Kleines Dorf',
+        requirement: 'Dodoria 100-mal besiegen',
+        color: '',
+    },
+    {
+        name: 'Ungetüm',
+        planet: 'Namek',
+        location: 'Kleines Dorf',
+        requirement: 'Zarbon 10-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: '?',
+        planet: 'Namek',
+        location: 'Kleines Dorf',
+        requirement: 'Zarbon 100-mal besiegen',
         color: '',
     },
     {
@@ -2160,13 +2181,6 @@ const npcTitles = [
         planet: 'Namek',
         location: 'Höhle',
         requirement: 'Vegeta 10-mal besiegen',
-        color: '',
-    },
-    {
-        name: '?',
-        planet: 'Namek',
-        location: 'Höhle',
-        requirement: 'Zarbon 10-mal besiegen',
         color: '',
     },
     {
