@@ -1995,10 +1995,17 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Trainingspartner',
         planet: 'Erde',
         location: 'Paprika-Ödnis',
         requirement: 'Pflanzenmann 100-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: '?',
+        planet: 'Erde',
+        location: 'Paprika-Ödnis',
+        requirement: 'Pflanzenmann 500-mal besiegen',
         color: '',
     },
     {
@@ -2009,10 +2016,17 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Brutal',
         planet: 'Erde',
         location: 'Paprika-Ödnis',
         requirement: 'Nappa 100-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: '?',
+        planet: 'Erde',
+        location: 'Paprika-Ödnis',
+        requirement: 'Nappa 500-mal besiegen',
         color: '',
     },
     {
