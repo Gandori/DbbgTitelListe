@@ -297,7 +297,7 @@ const npcTitles = [
         name: 'Häschen',
         planet: 'Erde',
         location: 'Die Pilzstadt',
-        requirement: 'Karottenmonster 1000-mal besiegen',
+        requirement: 'Karottenmonster 1.000-mal besiegen',
         color: '#ff2828',
     },
     {
@@ -332,7 +332,7 @@ const npcTitles = [
         name: 'Hund',
         planet: 'Erde',
         location: 'Prinz Pilafs Schloss',
-        requirement: 'Shu 1000-mal besiegen',
+        requirement: 'Shu 1.000-mal besiegen',
         color: '#ff2828',
     },
     {
@@ -374,7 +374,7 @@ const npcTitles = [
         name: 'Handlanger',
         planet: 'Erde',
         location: 'Prinz Pilafs Schloss',
-        requirement: 'Mai 1000-mal besiegen',
+        requirement: 'Mai 1.000-mal besiegen',
         color: '#ff2828',
     },
     {
@@ -416,7 +416,7 @@ const npcTitles = [
         name: 'Herrscher',
         planet: 'Erde',
         location: 'Prinz Pilafs Schloss',
-        requirement: 'Pilaf 1000-mal besiegen',
+        requirement: 'Pilaf 1.000-mal besiegen',
         color: '#ff2828',
     },
     {
@@ -451,7 +451,7 @@ const npcTitles = [
         name: 'Bad',
         planet: 'Erde',
         location: 'Brown Country',
-        requirement: 'Lunch 1000-mal besiegen',
+        requirement: 'Lunch 1.000-mal besiegen',
         color: '#ff2828',
     },
     {
@@ -486,7 +486,7 @@ const npcTitles = [
         name: 'Shaolin',
         planet: 'Erde',
         location: 'Trainingsinsel',
-        requirement: 'Kid Krillin 1000-mal besiegen',
+        requirement: 'Kid Krillin 1.000-mal besiegen',
         color: '#ff2828',
     },
     {
@@ -521,7 +521,7 @@ const npcTitles = [
         name: 'Haizahn',
         planet: 'Erde',
         location: 'Trainingsinsel',
-        requirement: 'Hai 1000-mal besiegen',
+        requirement: 'Hai 1.000-mal besiegen',
         color: '#ff2828',
     },
     {
@@ -549,7 +549,7 @@ const npcTitles = [
         name: 'Tyranno',
         planet: 'Erde',
         location: 'Trainingsinsel',
-        requirement: 'T-Rex 1000-mal besiegen',
+        requirement: 'T-Rex 1.000-mal besiegen',
         color: '#ff2828',
     },
     {
@@ -577,14 +577,14 @@ const npcTitles = [
         name: 'Bakterian',
         planet: 'Erde',
         location: 'Papayainsel',
-        requirement: 'Bakterian 1000-mal besiegen',
+        requirement: 'Bakterian 1.000-mal besiegen',
         color: '#ff2828',
     },
     {
         name: 'Gestank-Nemesis',
         planet: 'Erde',
         location: 'Papayainsel',
-        requirement: 'Bakterian 1000-mal besiegen',
+        requirement: 'Bakterian 10.000-mal besiegen',
         color: '#383838',
     },
     {
@@ -612,7 +612,7 @@ const npcTitles = [
         name: '69',
         planet: 'Erde',
         location: 'Papayainsel',
-        requirement: 'Startnummer 69 1000-mal besiegen',
+        requirement: 'Startnummer 69 1.000-mal besiegen',
         color: '#ff2828',
     },
     {
@@ -647,7 +647,7 @@ const npcTitles = [
         name: 'Drache',
         planet: 'Erde',
         location: 'Papayainsel',
-        requirement: 'Gilian 1000-mal besiegen',
+        requirement: 'Gilian 1.000-mal besiegen',
         color: '#ff2828',
     },
     {
@@ -682,7 +682,7 @@ const npcTitles = [
         name: 'Buddha',
         planet: 'Erde',
         location: 'Papayainsel',
-        requirement: 'Nam 1000-mal besiegen',
+        requirement: 'Nam 1.000-mal besiegen',
         color: '#ff2828',
     },
     {
@@ -717,7 +717,7 @@ const npcTitles = [
         name: 'Meister',
         planet: 'Erde',
         location: 'Papayainsel',
-        requirement: 'Jackie Chun 1000-mal besiegen',
+        requirement: 'Jackie Chun 1.000-mal besiegen',
         color: '#ff2828',
     },
     {
@@ -752,7 +752,7 @@ const npcTitles = [
         name: 'Silver',
         planet: 'Erde',
         location: 'Wüsten-Stützpunkt',
-        requirement: 'Oberst Silver 1000-mal besiegen',
+        requirement: 'Oberst Silver 1.000-mal besiegen',
         color: '#ff2828',
     },
     {
@@ -780,7 +780,7 @@ const npcTitles = [
         name: 'Soldat',
         planet: 'Erde',
         location: 'Jingledorf',
-        requirement: 'RR Soldaten 1000-mal besiegen',
+        requirement: 'RR Soldaten 1.000-mal besiegen',
         color: '#ff2828',
     },
     {
@@ -808,7 +808,7 @@ const npcTitles = [
         name: ' Terminator',
         planet: 'Erde',
         location: 'Muskelturm',
-        requirement: 'Leutnant Metallic 1000-mal besiegen',
+        requirement: 'Leutnant Metallic 1.000-mal besiegen',
         color: '#ff2828',
     },
     {
@@ -836,14 +836,14 @@ const npcTitles = [
         name: 'Ninja',
         planet: 'Erde',
         location: 'Muskelturm',
-        requirement: 'Ninja Lila 1000-mal besiegen',
+        requirement: 'Ninja Lila 1.000-mal besiegen',
         color: '#ff2828',
     },
     {
-        name: '',
+        name: '?',
         planet: 'Erde',
         location: 'Muskelturm',
-        requirement: 'Ninja Lila 5000-mal besiegen',
+        requirement: 'Ninja Lila 5.000-mal besiegen',
         color: '',
     },
     {
@@ -871,7 +871,7 @@ const npcTitles = [
         name: 'General',
         planet: 'Erde',
         location: 'Muskelturm',
-        requirement: 'General White 1000-mal besiegen',
+        requirement: 'General White 1.000-mal besiegen',
         color: '#ff2828',
     },
     {
@@ -899,7 +899,7 @@ const npcTitles = [
         name: 'Streetfighter',
         planet: 'Erde',
         location: 'Westliche Hauptstadt',
-        requirement: 'Straßenboxer 1000-mal besiegen',
+        requirement: 'Straßenboxer 1.000-mal besiegen',
         color: '#ff2828',
     },
     {
@@ -934,7 +934,7 @@ const npcTitles = [
         name: 'Pirat',
         planet: 'Erde',
         location: 'Piratenhöhle',
-        requirement: 'Piraten-Roboter 1000-mal besiegen',
+        requirement: 'Piraten-Roboter 1.000-mal besiegen',
         color: '',
     },
     {
@@ -962,7 +962,7 @@ const npcTitles = [
         name: 'Oktopus',
         planet: 'Erde',
         location: 'Piratenhöhle',
-        requirement: 'Octopapa 1000-mal besiegen',
+        requirement: 'Octopapa 1.000-mal besiegen',
         color: '',
     },
     {
@@ -990,7 +990,7 @@ const npcTitles = [
         name: 'Blue',
         planet: 'Erde',
         location: 'Piratenhöhle',
-        requirement: 'General Blue 1000-mal besiegen',
+        requirement: 'General Blue 1.000-mal besiegen',
         color: '',
     },
     {
@@ -1018,7 +1018,7 @@ const npcTitles = [
         name: 'Spaßcharakter',
         planet: 'Erde',
         location: 'Pinguinhausen',
-        requirement: 'Arale 1000-mal besiegen',
+        requirement: 'Arale 1.000-mal besiegen',
         color: '',
     },
     {
@@ -1046,7 +1046,7 @@ const npcTitles = [
         name: 'Oberst',
         planet: 'Erde',
         location: 'Quittenwald',
-        requirement: 'Oberst Yellow 1000-mal besiegen',
+        requirement: 'Oberst Yellow 1.000-mal besiegen',
         color: '#ff2828',
     },
     {
@@ -1074,7 +1074,7 @@ const npcTitles = [
         name: 'Profikiller',
         planet: 'Erde',
         location: 'Quittenwald',
-        requirement: 'Tao BaiBai 1000-mal besiegen',
+        requirement: 'Tao BaiBai 1.000-mal besiegen',
         color: '#ff2828',
     },
     {
@@ -1116,7 +1116,7 @@ const npcTitles = [
         name: 'Adjutant',
         planet: 'Erde',
         location: 'RR-Hauptquartier',
-        requirement: 'Adjutant Black 1000-mal besiegen',
+        requirement: 'Adjutant Black 1.000-mal besiegen',
         color: '#ff2828',
     },
     {
@@ -1151,7 +1151,7 @@ const npcTitles = [
         name: 'Maschine',
         planet: 'Erde',
         location: 'RR-Hauptquartier',
-        requirement: 'Adjutant Black (Rüstung) 1000-mal besiegen',
+        requirement: 'Adjutant Black (Rüstung) 1.000-mal besiegen',
         color: '#ff2828',
     },
     {
@@ -1179,7 +1179,7 @@ const npcTitles = [
         name: 'Ikognito',
         planet: 'Erde',
         location: 'Uranai Babas Palast',
-        requirement: 'Inkognito 1000-mal besiegen',
+        requirement: 'Inkognito 1.000-mal besiegen',
         color: '',
     },
     {
@@ -1214,7 +1214,7 @@ const npcTitles = [
         name: 'Dracula',
         planet: 'Erde',
         location: 'Uranai Babas Palast',
-        requirement: 'Dracula 1000-mal besiegen',
+        requirement: 'Dracula 1.000-mal besiegen',
         color: '',
     },
     {
@@ -1242,7 +1242,7 @@ const npcTitles = [
         name: '?',
         planet: 'Erde',
         location: 'Uranai Babas Palast',
-        requirement: 'Die Mumie 1000-mal besiegen',
+        requirement: 'Die Mumie 1.000-mal besiegen',
         color: '',
     },
     {
@@ -1270,7 +1270,7 @@ const npcTitles = [
         name: '?',
         planet: 'Erde',
         location: 'Uranai Babas Palast',
-        requirement: 'Akkuman 1000-mal besiegen',
+        requirement: 'Akkuman 1.000-mal besiegen',
         color: '',
     },
     {
@@ -1298,7 +1298,7 @@ const npcTitles = [
         name: '?',
         planet: 'Erde',
         location: 'Uranai Babas Palast',
-        requirement: 'Der maskierte Mann 1000-mal besiegen',
+        requirement: 'Der maskierte Mann 1.000-mal besiegen',
         color: '',
     },
     {
@@ -1326,7 +1326,7 @@ const npcTitles = [
         name: 'Geheimwaffe',
         planet: 'Erde',
         location: 'Stadtstraße',
-        requirement: 'Pilafs Maschine 1000-mal besiegen',
+        requirement: 'Pilafs Maschine 1.000-mal besiegen',
         color: '',
     },
     {
@@ -1361,7 +1361,7 @@ const npcTitles = [
         name: 'König',
         planet: 'Erde',
         location: 'Papayainsel',
-        requirement: 'King Chapa 1000-mal besiegen',
+        requirement: 'King Chapa 1.000-mal besiegen',
         color: '',
     },
     {
@@ -1389,7 +1389,7 @@ const npcTitles = [
         name: 'Filmstar',
         planet: 'Erde',
         location: 'Papayainsel',
-        requirement: 'Pamput 1000-mal besiegen',
+        requirement: 'Pamput 1.000-mal besiegen',
         color: '',
     },
     {
@@ -1424,7 +1424,7 @@ const npcTitles = [
         name: 'Rivale',
         planet: 'Erde',
         location: 'Papayainsel',
-        requirement: 'Krillin (Turnier) 1000-mal besiegen',
+        requirement: 'Krillin (Turnier) 1.000-mal besiegen',
         color: '',
     },
     {
@@ -1452,7 +1452,7 @@ const npcTitles = [
         name: 'Telepath',
         planet: 'Erde',
         location: 'Papayainsel',
-        requirement: 'Chiaotzu (Kranich-Schule) 1000-mal besiegen',
+        requirement: 'Chiaotzu (Kranich-Schule) 1.000-mal besiegen',
         color: '',
     },
     {
@@ -1480,7 +1480,7 @@ const npcTitles = [
         name: 'Kranich-Schule',
         planet: 'Erde',
         location: 'Papayainsel',
-        requirement: 'Tenshinhan (Kranich-Schule) 1000-mal besiegen',
+        requirement: 'Tenshinhan (Kranich-Schule) 1.000-mal besiegen',
         color: '',
     },
     {
@@ -1508,7 +1508,7 @@ const npcTitles = [
         name: 'Samurai',
         planet: 'Erde',
         location: 'Yajirobis Prärie',
-        requirement: 'Yajirobi 1000-mal besiegen',
+        requirement: 'Yajirobi 1.000-mal besiegen',
         color: '',
     },
     {
@@ -1536,7 +1536,7 @@ const npcTitles = [
         name: '?',
         planet: 'Erde',
         location: 'Yajirobis Prärie',
-        requirement: 'Zimbel 1000-mal besiegen',
+        requirement: 'Zimbel 1.000-mal besiegen',
         color: '',
     },
     {
@@ -1564,7 +1564,7 @@ const npcTitles = [
         name: '?',
         planet: 'Erde',
         location: 'Yajirobis Prärie',
-        requirement: 'Tamburin 1000-mal besiegen',
+        requirement: 'Tamburin 1.000-mal besiegen',
         color: '',
     },
     {
@@ -1599,7 +1599,7 @@ const npcTitles = [
         name: 'Oberteufel',
         planet: 'Erde',
         location: 'Yajirobis Prärie',
-        requirement: 'Oberteufel Piccolo (Alt) 1000-mal besiegen',
+        requirement: 'Oberteufel Piccolo (Alt) 1.000-mal besiegen',
         color: '',
     },
     {
@@ -1627,7 +1627,7 @@ const npcTitles = [
         name: 'Finsternis',
         planet: 'Erde',
         location: 'Eislabyrinth',
-        requirement: 'Muten Roshi 1000-mal besiegen',
+        requirement: 'Muten Roshi 1.000-mal besiegen',
         color: '',
     },
     {
@@ -1655,7 +1655,7 @@ const npcTitles = [
         name: 'Schlagzeuger',
         planet: 'Erde',
         location: 'King Castle',
-        requirement: 'Trommel 1000-mal besiegen',
+        requirement: 'Trommel 1.000-mal besiegen',
         color: '',
     },
     {
@@ -1690,7 +1690,7 @@ const npcTitles = [
         name: 'Dämon',
         planet: 'Erde',
         location: 'King Castle',
-        requirement: 'Oberteufel Piccolo (Jung) 1000-mal besiegen',
+        requirement: 'Oberteufel Piccolo (Jung) 1.000-mal besiegen',
         color: '',
     },
     {
@@ -1718,7 +1718,7 @@ const npcTitles = [
         name: 'Entität',
         planet: 'Erde',
         location: 'Gottespalast',
-        requirement: 'Mr. Popo 1000-mal besiegen',
+        requirement: 'Mr. Popo 1.000-mal besiegen',
         color: '',
     },
     {
@@ -1753,7 +1753,7 @@ const npcTitles = [
         name: 'Mutter',
         planet: 'Erde',
         location: 'Papayainsel',
-        requirement: 'Chichi 1000-mal besiegen',
+        requirement: 'Chichi 1.000-mal besiegen',
         color: '',
     },
     {
@@ -1781,7 +1781,7 @@ const npcTitles = [
         name: 'Finalist',
         planet: 'Erde',
         location: 'Papayainsel',
-        requirement: 'Tenshinhan (Turnier) 1000-mal besiegen',
+        requirement: 'Tenshinhan (Turnier) 1.000-mal besiegen',
         color: '',
     },
     {
@@ -1809,7 +1809,7 @@ const npcTitles = [
         name: 'Jr',
         planet: 'Erde',
         location: 'Papayainsel',
-        requirement: 'Piccolo (Reinkarnation) 1000-mal besiegen',
+        requirement: 'Piccolo (Reinkarnation) 1.000-mal besiegen',
         color: '',
     },
     {
@@ -2037,10 +2037,24 @@ const npcTitles = [
         color: '',
     },
     {
-        name: '?',
+        name: 'Gigantisch',
         planet: 'Erde',
         location: 'Gizard-Ödnis',
         requirement: 'Vegeta (Wehraffe) 10-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: 'Mondlicht',
+        planet: 'Erde',
+        location: 'Gizard-Ödnis',
+        requirement: 'Vegeta (Wehraffe) 100-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: '?',
+        planet: 'Erde',
+        location: 'Gizard-Ödnis',
+        requirement: 'Vegeta (Wehraffe) 500-mal besiegen',
         color: '',
     },
     {
@@ -2149,10 +2163,17 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Dreist',
         planet: 'Namek',
         location: 'Kleines Dorf',
         requirement: 'Dodoria 100-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: '?',
+        planet: 'Namek',
+        location: 'Kleines Dorf',
+        requirement: 'Dodoria 500-mal besiegen',
         color: '',
     },
     {
