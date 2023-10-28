@@ -1355,13 +1355,20 @@ const npcTitles = [
         planet: 'Erde',
         location: 'Papayainsel',
         requirement: 'King Chapa 999-mal besiegen',
-        color: '',
+        color: '#ff2828',
     },
     {
         name: 'König',
         planet: 'Erde',
         location: 'Papayainsel',
         requirement: 'King Chapa 1.000-mal besiegen',
+        color: '#ff2828',
+    },
+    {
+        name: '?',
+        planet: 'Erde',
+        location: 'Papayainsel',
+        requirement: 'King Chapa 10.000-mal besiegen',
         color: '',
     },
     {
