@@ -48,7 +48,7 @@ const otherTitles = [
     {
         name: 'Tyrann',
         requirement: 'Der Alte Tyrann 30 mal abgeschlossen',
-        color: '',
+        color: '#f8aea8',
     },
     {
         name: 'Rivale',
