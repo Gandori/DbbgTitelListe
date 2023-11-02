@@ -2341,7 +2341,21 @@ const npcTitles = [
         name: '?',
         planet: 'Namek',
         location: 'Fels im Wasser',
-        requirement: 'Freezer 10-mal besiegen',
+        requirement: 'Freezer (verletzt) 10-mal besiegen',
+        color: '',
+    },
+    {
+        name: '?',
+        planet: 'Namek',
+        location: 'Fels im Wasser',
+        requirement: 'Freezer (100%) 10-mal besiegen',
+        color: '',
+    },
+    {
+        name: '?',
+        planet: 'Namek',
+        location: 'Fels im Wasser',
+        requirement: 'Freezers Oberkörper 10-mal besiegen',
         color: '',
     },
 ]
