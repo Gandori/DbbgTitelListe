@@ -2379,6 +2379,20 @@ const npcTitles = [
         requirement: 'Freezers Oberkörper 10-mal besiegen',
         color: '',
     },
+    {
+        name: '?',
+        planet: 'Erde',
+        location: 'Kame Haus',
+        requirement: 'Chichi (Böse) 10-mal besiegen',
+        color: '',
+    },
+    {
+        name: '?',
+        planet: 'Erde',
+        location: 'Kame Haus',
+        requirement: 'Yamchu (Böse) 10-mal besiegen',
+        color: '',
+    },
 ]
 
 export default npcTitles
