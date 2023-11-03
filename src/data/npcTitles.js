@@ -2072,10 +2072,24 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Elite-Level Saiyajin',
         planet: 'Erde',
         location: 'Gizard-Ödnis',
         requirement: 'Vegeta 500-mal besiegen',
+        color: '#ffbb29',
+    },
+    {
+        name: '?',
+        planet: 'Erde',
+        location: 'Gizard-Ödnis',
+        requirement: 'Vegeta 999-mal besiegen',
+        color: '',
+    },
+    {
+        name: '?',
+        planet: 'Erde',
+        location: 'Gizard-Ödnis',
+        requirement: 'Vegeta 1.000-mal besiegen',
         color: '',
     },
     {
@@ -2093,10 +2107,17 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Vollmond',
         planet: 'Erde',
         location: 'Gizard-Ödnis',
         requirement: 'Vegeta (Wehraffe) 500-mal besiegen',
+        color: '#ffbb29',
+    },
+    {
+        name: '?',
+        planet: 'Erde',
+        location: 'Gizard-Ödnis',
+        requirement: 'Vegeta (Wehraffe) 1.000-mal besiegen',
         color: '',
     },
     {
