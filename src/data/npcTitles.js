@@ -2381,6 +2381,13 @@ const npcTitles = [
     },
     {
         name: '?',
+        planet: 'Yadrat',
+        location: 'Spitze Berge',
+        requirement: 'Jimizu 10-mal besiegen',
+        color: '',
+    },
+    {
+        name: '?',
         planet: 'Erde',
         location: 'Kame Haus',
         requirement: 'Chichi (Böse) 10-mal besiegen',
