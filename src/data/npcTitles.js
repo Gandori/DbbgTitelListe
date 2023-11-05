@@ -2484,6 +2484,62 @@ const npcTitles = [
         requirement: 'Yamchu (Böse) 10-mal besiegen',
         color: '',
     },
+    {
+        name: '?',
+        planet: 'Erde',
+        location: 'Kame Haus',
+        requirement: 'Muten Roshi (Böse) 10-mal besiegen',
+        color: '',
+    },
+    {
+        name: '?',
+        planet: 'Erde',
+        location: 'Gottespalast',
+        requirement: 'Salt 10-mal besiegen',
+        color: '',
+    },
+    {
+        name: '?',
+        planet: 'Erde',
+        location: 'Gottespalast',
+        requirement: 'Mustard 10-mal besiegen',
+        color: '',
+    },
+    {
+        name: '?',
+        planet: 'Erde',
+        location: 'Gottespalast',
+        requirement: 'Piccolo(Blind vor Wut) 10-mal besiegen',
+        color: '',
+    },
+    {
+        name: '?',
+        planet: 'Erde',
+        location: 'Gottespalast',
+        requirement: 'Vinegar 10-mal besiegen',
+        color: '',
+    },
+    {
+        name: '?',
+        planet: 'Erde',
+        location: 'Gottespalast',
+        requirement: 'Spice 10-mal besiegen',
+        color: '',
+    },
+    {
+        name: '?',
+        planet: 'Erde',
+        location: 'Gottespalast',
+        requirement: 'Garlic Jr. 10-mal besiegen',
+        color: '',
+    },
+    {
+        name: '?',
+        planet: 'Erde',
+        location: 'Gottespalast',
+        requirement: 'Super Vinegar 10-mal besiegen',
+        color: '',
+    },
 ]
 
 export default npcTitles
