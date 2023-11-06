@@ -2079,18 +2079,18 @@ const npcTitles = [
         color: '#ffbb29',
     },
     {
-        name: '?',
+        name: 'Prinzessin der Saiyajin',
         planet: 'Erde',
         location: 'Gizard-Ödnis',
         requirement: 'Vegeta 999-mal besiegen',
-        color: '',
+        color: '#ff2828',
     },
     {
-        name: '?',
+        name: 'Prinz der Saiyajin',
         planet: 'Erde',
         location: 'Gizard-Ödnis',
         requirement: 'Vegeta 1.000-mal besiegen',
-        color: '',
+        color: '#ff2828',
     },
     {
         name: 'Gigantisch',
@@ -2114,11 +2114,11 @@ const npcTitles = [
         color: '#ffbb29',
     },
     {
-        name: '?',
+        name: 'Wehraffe',
         planet: 'Erde',
         location: 'Gizard-Ödnis',
         requirement: 'Vegeta (Wehraffe) 1.000-mal besiegen',
-        color: '',
+        color: '#ff2828',
     },
     {
         name: 'Konzentriert',
