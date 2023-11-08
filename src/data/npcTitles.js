@@ -2352,10 +2352,31 @@ const npcTitles = [
         color: '',
     },
     {
-        name: '?',
+        name: 'Ehrbar',
         planet: 'Namek',
         location: 'Haus des Oberältesten',
         requirement: 'Nail 10-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: '?',
+        planet: 'Namek',
+        location: 'Haus des Oberältesten',
+        requirement: 'Nail 100-mal besiegen',
+        color: '',
+    },
+    {
+        name: 'Egoistisch',
+        planet: 'Namek',
+        location: 'Haus des Oberältesten',
+        requirement: 'Vegeta 10-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: '?',
+        planet: 'Namek',
+        location: 'Haus des Oberältesten',
+        requirement: 'Vegeta 100-mal besiegen',
         color: '',
     },
     {
