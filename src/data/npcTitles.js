@@ -928,7 +928,7 @@ const npcTitles = [
         planet: 'Erde',
         location: 'Piratenhöhle',
         requirement: 'Piraten-Roboter 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
     },
     {
         name: 'Pirat',
@@ -956,7 +956,7 @@ const npcTitles = [
         planet: 'Erde',
         location: 'Piratenhöhle',
         requirement: 'Octopapa 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
     },
     {
         name: 'Oktopus',
@@ -984,7 +984,7 @@ const npcTitles = [
         planet: 'Erde',
         location: 'Piratenhöhle',
         requirement: 'General Blue 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
     },
     {
         name: 'Blue',
