@@ -1684,6 +1684,13 @@ const npcTitles = [
         planet: 'Erde',
         location: 'King Castle',
         requirement: 'Trommel 1.000-mal besiegen',
+        color: '#ff2828',
+    },
+    {
+        name: '?',
+        planet: 'Erde',
+        location: 'King Castle',
+        requirement: 'Trommel 10.000-mal besiegen',
         color: '',
     },
     {
@@ -1712,14 +1719,14 @@ const npcTitles = [
         planet: 'Erde',
         location: 'King Castle',
         requirement: 'Oberteufel Piccolo (Jung) 999-mal besiegen',
-        color: '',
+        color: '#ff2828',
     },
     {
         name: 'Dämon',
         planet: 'Erde',
         location: 'King Castle',
         requirement: 'Oberteufel Piccolo (Jung) 1.000-mal besiegen',
-        color: '',
+        color: '#ff2828',
     },
     {
         name: 'Höflich',
