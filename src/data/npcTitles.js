@@ -2341,14 +2341,21 @@ const npcTitles = [
         name: 'Ungetüm',
         planet: 'Namek',
         location: 'Kleines Dorf',
-        requirement: 'Zarbon 10-mal besiegen',
+        requirement: 'Zarbon (Monster Form) 10-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: 'Monster',
+        planet: 'Namek',
+        location: 'Kleines Dorf',
+        requirement: 'Zarbon (Monster Form) 100-mal besiegen',
         color: '#ffd858',
     },
     {
         name: '?',
         planet: 'Namek',
         location: 'Kleines Dorf',
-        requirement: 'Zarbon 100-mal besiegen',
+        requirement: 'Zarbon (Monster Form) 500-mal besiegen',
         color: '',
     },
     {
