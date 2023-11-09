@@ -1341,7 +1341,7 @@ const npcTitles = [
         planet: 'Erde',
         location: 'Stadtstraße',
         requirement: 'Pilafs Maschine 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
     },
     {
         name: 'Geheimwaffe',
