@@ -1,0 +1,31 @@
+@import '@/styles/var'
+
+.title
+    display: flex
+    flex-direction: column
+    justify-content: center
+    background-color: $secondBgColor
+    width: 100%
+    min-width: 300px
+    border-radius: 5px
+    padding: 10px 0px
+    gap: 10px
+    box-shadow: 1px 1px $headerColor
+    opacity: 0%
+    animation: fadeIn 1s forwards
+
+    div
+        display: flex
+        flex-direction: column
+        padding-inline: 15px
+
+.title:hover
+    background-color: $akzentColor
+    transition: background-color 0.5s
+
+@keyframes fadeIn
+    0%
+        opacity: 0%
+
+    100%
+        opacity: 100%
