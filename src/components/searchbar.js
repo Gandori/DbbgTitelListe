@@ -6,8 +6,7 @@ const Searchbar = ({ searchValue, setData, setSearchValue, titles }) => {
     return (
         <div id="searchbar">
             <label>
-                Suche nach einem Titel, nach einem Npc, nach einem Ort oder nach
-                einer Technik
+                Suche nach einem Titel, einem Npc, einem Ort oder einer Technik
             </label>
             <input
                 placeholder="Suchen"
