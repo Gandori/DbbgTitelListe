@@ -2002,10 +2002,17 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Tischbesitzer',
         planet: 'Erde',
         location: 'Check-In Station',
         requirement: 'Enma Daio 100-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: '?',
+        planet: 'Erde',
+        location: 'Check-In Station',
+        requirement: 'Enma Daio 500-mal besiegen',
         color: '',
     },
     {
