@@ -2023,10 +2023,17 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Haustier',
         planet: 'Erde',
         location: 'Meister Kaios Planet',
         requirement: 'Bananas 100-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: '?',
+        planet: 'Erde',
+        location: 'Meister Kaios Planet',
+        requirement: 'Bananas 500-mal besiegen',
         color: '',
     },
     {
