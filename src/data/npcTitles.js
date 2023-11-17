@@ -2673,6 +2673,13 @@ const npcTitles = [
         requirement: 'Garlic Jr. (Aufgeladen) 10-mal besiegen',
         color: '',
     },
+    {
+        name: '?',
+        planet: 'Erde',
+        location: 'Gottespalast',
+        requirement: 'Garlic Jr. (Rage Mode) 10-mal besiegen',
+        color: '',
+    },
 ]
 
 export default npcTitles
