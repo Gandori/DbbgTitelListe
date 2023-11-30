@@ -2296,10 +2296,17 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Ex-Prinz',
         planet: 'Erde',
         location: 'Baum der Macht',
         requirement: 'Daiz 100-mal besiegen',
+        color: '',
+    },
+    {
+        name: '?',
+        planet: 'Erde',
+        location: 'Baum der Macht',
+        requirement: 'Daiz 500-mal besiegen',
         color: '',
     },
     {
@@ -2310,10 +2317,17 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Kosmos',
         planet: 'Erde',
         location: 'Baum der Macht',
         requirement: 'Cacao 100-mal besiegen',
+        color: '',
+    },
+    {
+        name: '?',
+        planet: 'Erde',
+        location: 'Baum der Macht',
+        requirement: 'Cacao 500-mal besiegen',
         color: '',
     },
     {
