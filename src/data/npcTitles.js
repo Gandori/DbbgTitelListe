@@ -2156,11 +2156,18 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Visualisiert',
         planet: 'Täuschungsplanet',
         location: 'Illusionsebene',
         requirement: 'Gedanken-Krillin 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
+    },
+    {
+        name: 'Gedanken',
+        planet: 'Täuschungsplanet',
+        location: 'Illusionsebene',
+        requirement: 'Gedanken-Krillin 1.000-mal besiegen',
+        color: '#ff2828',
     },
     {
         name: 'Hungrig',
@@ -2177,11 +2184,18 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Ausgestorben',
         planet: 'Täuschungsplanet',
         location: 'Illusionsebene',
         requirement: 'Dinosaurier 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
+    },
+    {
+        name: 'Dinosaurierschädel',
+        planet: 'Täuschungsplanet',
+        location: 'Illusionsebene',
+        requirement: 'Dinosaurier 1.000-mal besiegen',
+        color: '#ff2828',
     },
     {
         name: '?',
@@ -2205,11 +2219,18 @@ const npcTitles = [
         color: '#ffbb29',
     },
     {
-        name: '?',
+        name: 'Naturkatastrophe',
         planet: 'Täuschungsplanet',
         location: 'Illusionsebene',
         requirement: 'Waldvogel 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
+    },
+    {
+        name: 'Waldvogel',
+        planet: 'Täuschungsplanet',
+        location: 'Illusionsebene',
+        requirement: 'Waldvogel 1.000-mal besiegen',
+        color: '#ff2828',
     },
     {
         name: 'Großer',
@@ -2240,11 +2261,18 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Meereswesen',
         planet: 'Täuschungsplanet',
         location: 'Tentakel-See',
         requirement: 'Tentakelmonster 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
+    },
+    {
+        name: 'Seekreatur',
+        planet: 'Täuschungsplanet',
+        location: 'Tentakel-See',
+        requirement: 'Tentakelmonster 1.000-mal besiegen',
+        color: '#ff2828',
     },
     {
         name: 'Fälschung',
