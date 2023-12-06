@@ -2216,7 +2216,7 @@ const npcTitles = [
         planet: 'Täuschungsplanet',
         location: 'Illusionsebene',
         requirement: 'Waldvogel 100-mal besiegen',
-        color: '#ffbb29',
+        color: '#ffd858',
     },
     {
         name: 'Naturkatastrophe',
@@ -2289,11 +2289,18 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Formwandler',
         planet: 'Täuschungsplanet',
         location: 'Landepunkt',
         requirement: 'Zaacro 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
+    },
+    {
+        name: 'Mutant',
+        planet: 'Täuschungsplanet',
+        location: 'Landepunkt',
+        requirement: 'Zaacro 1.000-mal besiegen',
+        color: '#ff2828',
     },
     {
         name: 'Täuschung',
@@ -2310,11 +2317,18 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Gedankenleser',
         planet: 'Täuschungsplanet',
         location: 'Landepunkt',
         requirement: 'Raiti 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
+    },
+    {
+        name: 'Alien',
+        planet: 'Täuschungsplanet',
+        location: 'Landepunkt',
+        requirement: 'Raiti 1.000-mal besiegen',
+        color: '#ff2828',
     },
     {
         name: 'Kürbis',
