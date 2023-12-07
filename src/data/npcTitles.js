@@ -2387,10 +2387,17 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Eisberg',
         planet: 'Namek',
         location: 'Landepunkt',
         requirement: 'Soldat 1 500-mal besiegen',
+        color: '#ffbb29',
+    },
+    {
+        name: '?',
+        planet: 'Namek',
+        location: 'Landepunkt',
+        requirement: 'Soldat 1 1.000-mal besiegen',
         color: '',
     },
     {
@@ -2408,10 +2415,17 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Nr. 2',
         planet: 'Namek',
         location: 'Landepunkt',
         requirement: 'Soldat 2 500-mal besiegen',
+        color: '#ffbb29',
+    },
+    {
+        name: '?',
+        planet: 'Namek',
+        location: 'Landepunkt',
+        requirement: 'Soldat 2 1.000-mal besiegen',
         color: '',
     },
     {
@@ -2492,10 +2506,17 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Berater',
         planet: 'Namek',
         location: 'Höhle',
         requirement: 'Zarbon 100-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: '?',
+        planet: 'Namek',
+        location: 'Höhle',
+        requirement: 'Zarbon 500-mal besiegen',
         color: '',
     },
     {
@@ -2506,10 +2527,17 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Gewalttätig',
         planet: 'Namek',
         location: 'Höhle',
         requirement: 'Dodoria 100-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: '?',
+        planet: 'Namek',
+        location: 'Höhle',
+        requirement: 'Dodoria 500-mal besiegen',
         color: '',
     },
     {
@@ -2520,10 +2548,17 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Verbissen',
         planet: 'Namek',
         location: 'Höhle',
         requirement: 'Vegeta 100-mal besiegen',
+        color: '#ffd858',
+    },
+    {
+        name: '?',
+        planet: 'Namek',
+        location: 'Höhle',
+        requirement: 'Vegeta 500-mal besiegen',
         color: '',
     },
     {
