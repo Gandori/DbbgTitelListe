@@ -1862,11 +1862,18 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Explodiert',
         planet: 'Erde',
         location: 'Kame Haus',
         requirement: 'Yamchu 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
+    },
+    {
+        name: 'Kampfkünstler',
+        planet: 'Erde',
+        location: 'Kame Haus',
+        requirement: 'Yamchu 1.000-mal besiegen',
+        color: '#ff2828',
     },
     {
         name: 'Kahlköpfig',
@@ -1883,11 +1890,18 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Disziplinierter',
         planet: 'Erde',
         location: 'Kame Haus',
         requirement: 'Krillin 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
+    },
+    {
+        name: 'Sohei',
+        planet: 'Erde',
+        location: 'Kame Haus',
+        requirement: 'Krillin 1.000-mal besiegen',
+        color: '#ff2828',
     },
     {
         name: 'Scanner',
@@ -2415,11 +2429,11 @@ const npcTitles = [
         color: '#ffbb29',
     },
     {
-        name: '?',
+        name: 'Nr.1',
         planet: 'Namek',
         location: 'Landepunkt',
         requirement: 'Soldat 1 1.000-mal besiegen',
-        color: '',
+        color: '#ff2828',
     },
     {
         name: 'Schwach',
@@ -2443,11 +2457,11 @@ const npcTitles = [
         color: '#ffbb29',
     },
     {
-        name: '?',
+        name: 'Vikinger',
         planet: 'Namek',
         location: 'Landepunkt',
         requirement: 'Soldat 2 1.000-mal besiegen',
-        color: '',
+        color: '#ff2828',
     },
     {
         name: 'Blind',
@@ -2464,11 +2478,18 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Überrascht',
         planet: 'Namek',
         location: 'Kleines Dorf',
         requirement: 'Dodoria 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
+    },
+    {
+        name: 'Weltraumente',
+        planet: 'Namek',
+        location: 'Kleines Dorf',
+        requirement: 'Dodoria 1.000-mal besiegen',
+        color: '#ff2828',
     },
     {
         name: 'Ungetüm',
@@ -2485,11 +2506,18 @@ const npcTitles = [
         color: '#ffd858',
     },
     {
-        name: '?',
+        name: 'Biest',
         planet: 'Namek',
         location: 'Kleines Dorf',
         requirement: 'Zarbon (Monster Form) 500-mal besiegen',
-        color: '',
+        color: '#ffbb29',
+    },
+    {
+        name: 'Monster-Form',
+        planet: 'Namek',
+        location: 'Kleines Dorf',
+        requirement: 'Zarbon (Monster Form) 1.000-mal besiegen',
+        color: '#ff2828',
     },
     {
         name: 'Ehrbar',
